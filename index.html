@@ -66,6 +66,7 @@
       .location-list { list-style: none; padding: 0; margin: 0; overflow-y: auto; }
       .location-list li { padding: 15px 20px; color: rgba(255,255,255,0.8); border-bottom: 1px solid rgba(255,255,255,0.05); cursor: pointer; transition: all 0.2s ease; font-weight: 500; display: flex; align-items: center; gap: 10px; }
       .location-list li:hover { background: rgba(37, 99, 235, 0.3); color: white; padding-left: 25px; border-left: 3px solid #FBBF24; }
+      .location-list li.active-location { background: rgba(37, 99, 235, 0.6); color: white; padding-left: 25px; border-left: 3px solid #FBBF24; font-weight: 600; }
       
       /* Smart Chat Widget */
       #chat-widget { position: absolute; bottom: 20px; right: 20px; width: 360px; height: 520px; background: white; border-radius: 16px; box-shadow: 0 12px 40px rgba(0,0,0,0.25); display: none; flex-direction: column; pointer-events: auto; overflow: hidden; transition: all 0.3s cubic-bezier(0.25, 1, 0.5, 1); border: 1px solid rgba(0,0,0,0.08); }
@@ -78,7 +79,8 @@
       #chat-input-area { display: flex; padding: 12px; background: white; border-top: 1px solid #eaeaea; }
       #chat-input { flex: 1; padding: 12px 15px; border: 1px solid #ccc; border-radius: 25px; outline: none; font-size: 0.95rem; transition: border-color 0.2s; }
       #chat-input:focus { border-color: var(--primary-color); }
-      #chat-send-btn { background: var(--primary-color); color: white; border: none; width: 44px; height: 44px; border-radius: 50%; margin-left: 10px; cursor: pointer; display: flex; justify-content: center; align-items: center; font-size: 1.1rem; transition: background 0.3s, transform 0.2s;}
+      #chat-send-btn { background: var(--primary-color); color: white; border: none; width: 44px; height: 44px; border-radius: 50%; margin-left: 10px; cursor: pointer; display: flex; justify-content: center; align-items: center; transition: background 0.3s, transform 0.2s; padding: 0;}
+      #chat-send-btn svg { margin-right: 2px; margin-top: 2px; /* Slight visual centering tweak for the paperplane */ }
       #chat-send-btn:hover { background: var(--primary-hover); transform: scale(1.05); }
       
       /* Floating Action Button (FAB) */
@@ -146,12 +148,18 @@
           <button id="close-sidebar">&times;</button>
         </div>
         <ul class="location-list">
-          <li onclick="goToLocation('MainEntrance')">🚪 Main Entrance</li>
-          <li onclick="goToLocation('CSEBlock')">💻 CSE Department</li>
-          <li onclick="goToLocation('ECEBlock')">🔌 ECE Department</li>
-          <li onclick="goToLocation('Library')">📚 Central Library</li>
-          <li onclick="goToLocation('SportsComplex')">⚽ Sports Complex</li>
-          <li onclick="goToLocation('Cafeteria')">☕ Cafeteria</li>
+          <li data-index="0" onclick="goToLocation('0')">Main Entrance</li>
+          <li data-index="7" onclick="goToLocation('7')">A Block</li>
+          <li data-index="1" onclick="goToLocation('1')">B Block</li>
+          <li data-index="2" onclick="goToLocation('2')">C Block</li>
+          <li data-index="5" onclick="goToLocation('5')">D Block</li>
+          <li data-index="32" onclick="goToLocation('32')">E Block</li>
+          <li data-index="26" onclick="goToLocation('26')">Classrooms</li>
+          <li data-index="27" onclick="goToLocation('27')">Labs</li>
+          <li data-index="25" onclick="goToLocation('25')">Workshops</li>
+          <li data-index="12" onclick="goToLocation('12')">Sports Complex</li>
+          <li data-index="30" onclick="goToLocation('30')">Library</li>
+          <li data-index="4" onclick="goToLocation('4')">Canteen</li>
         </ul>
       </div>
 
@@ -165,7 +173,9 @@
         </div>
         <div id="chat-input-area">
           <input type="text" id="chat-input" placeholder="E.g., Who is the HOD of CSE?" autocomplete="off" />
-          <button id="chat-send-btn">➤</button>
+          <button id="chat-send-btn" title="Send message" aria-label="Send">
+            <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
+          </button>
         </div>
       </div>
       <button id="chat-toggle">💬</button>
@@ -292,12 +302,27 @@
 
       // Send message to Unity to jump to location
       window.goToLocation = function(locationName) {
+        console.log("🟢 [FRONTEND] Sidebar button clicked! Target location:", locationName);
+        window.updateActiveLocation(locationName); // Visually update immediately
         if (myUnityInstance !== null) {
-          myUnityInstance.SendMessage('TourManager', 'JumpToLocation', locationName);
+          console.log("🟢 [FRONTEND] Unity instance is ready. Sending message to C#...");
+          try {
+            myUnityInstance.SendMessage('PanoramaManager', 'GoToLocation', locationName);
+            console.log("🟢 [FRONTEND] Message successfully sent to Unity!");
+          } catch (error) {
+            console.error("🔴 [ERROR] Unity rejected the message:", error);
+          }
         } else {
-          console.warn("Unity environment not fully loaded yet.");
+          console.warn("🔴 [WARNING] Unity environment not fully loaded yet. Please wait.");
         }
         if (window.innerWidth < 768) sidebar.classList.remove('open'); // Auto-hide on mobile
+      };
+
+      // Function called by Unity when the location changes via 3D hotspot
+      window.updateActiveLocation = function(index) {
+        document.querySelectorAll('.location-list li').forEach(li => li.classList.remove('active-location'));
+        const activeLi = document.querySelector(`.location-list li[data-index="${index}"]`);
+        if (activeLi) activeLi.classList.add('active-location');
       };
 
       var script = document.createElement("script");
@@ -320,6 +345,70 @@
 
       document.body.appendChild(script);
 
+      // --- Smart Chat Widget Logic ---
+      const chatWidget = document.getElementById('chat-widget');
+      const chatToggleBtn = document.getElementById('chat-toggle');
+      const closeChatBtn = document.getElementById('close-chat');
+      const chatInput = document.getElementById('chat-input');
+      const chatSendBtn = document.getElementById('chat-send-btn');
+      const chatMessages = document.getElementById('chat-messages');
+
+      // Prevent Unity WebGL from stealing keystrokes by intercepting them at the window level
+      ['keydown', 'keyup', 'keypress'].forEach(evt => {
+        window.addEventListener(evt, (e) => {
+          if (document.activeElement === chatInput) {
+            if (evt === 'keydown' && e.key === 'Enter') {
+              sendMessage();
+            }
+            e.stopPropagation();
+            e.stopImmediatePropagation();
+          }
+        }, true); // Use capture phase (true) to catch the event BEFORE Unity does
+      });
+
+      // Toggle chat visibility
+      chatToggleBtn.addEventListener('click', () => {
+        chatWidget.style.display = 'flex';
+        chatToggleBtn.style.display = 'none';
+      });
+      closeChatBtn.addEventListener('click', () => {
+        chatWidget.style.display = 'none';
+        chatToggleBtn.style.display = 'flex';
+      });
+
+      // Handle sending messages to the server
+      async function sendMessage() {
+        const text = chatInput.value.trim();
+        if (!text) return;
+
+        // Add User Message to UI
+        chatMessages.innerHTML += `<div class="msg user-msg">${text}</div>`;
+        chatInput.value = '';
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+
+        // Add Loading Indicator
+        const loadingId = 'loading-' + Date.now();
+        chatMessages.innerHTML += `<div id="${loadingId}" class="msg bot-msg">Thinking...</div>`;
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+
+        try {
+          const response = await fetch('http://localhost:3000/query', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ query: text })
+          });
+          const data = await response.json();
+          
+          document.getElementById(loadingId).remove();
+          chatMessages.innerHTML += `<div class="msg bot-msg">${data.response || data.error}</div>`;
+        } catch (error) {
+          document.getElementById(loadingId).remove();
+          chatMessages.innerHTML += `<div class="msg bot-msg">Sorry, I'm having trouble connecting to the server.</div>`;
+        }
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+      }
+
+      chatSendBtn.addEventListener('click', sendMessage);
     </script>
   </body>
 </html>
