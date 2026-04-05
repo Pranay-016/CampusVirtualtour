@@ -1,0 +1,4104 @@
+{
+  "ids": [
+    "faculty_d173da9f",
+    "faculty_53d7d25b",
+    "faculty_fb7d73a2",
+    "faculty_17968928",
+    "faculty_9c1672ef",
+    "faculty_8971b52a",
+    "faculty_eb8bc2cc",
+    "faculty_af4df8c5",
+    "faculty_a24db900",
+    "faculty_fa78acf1",
+    "faculty_f1daf87d",
+    "faculty_eb2111d2",
+    "faculty_37629ba0",
+    "faculty_54c2b4d5",
+    "faculty_8e9596b0",
+    "faculty_0c97e746",
+    "faculty_8d07a044",
+    "faculty_078382d1",
+    "faculty_ebcb23b9",
+    "faculty_95796b26",
+    "faculty_4e75d20e",
+    "faculty_04b5ba5c",
+    "faculty_e11cbeb7",
+    "faculty_2bb97ba6",
+    "faculty_594c65c2",
+    "faculty_cbf66d18",
+    "faculty_b71c6e98",
+    "faculty_e32c527c",
+    "faculty_a5dc4034",
+    "faculty_ed87a48a",
+    "faculty_d1ff9c81",
+    "faculty_dc7e203e",
+    "faculty_7ddcea61",
+    "faculty_2b7ebbbc",
+    "faculty_cffc687c",
+    "faculty_91c2ad9a",
+    "faculty_730bcfe0",
+    "faculty_7fb9fa7c",
+    "faculty_47625483",
+    "faculty_69b72a86",
+    "faculty_a069d3a8",
+    "faculty_1b52e4cc",
+    "faculty_d1b58843",
+    "faculty_fad1b692",
+    "faculty_7cdcc68f",
+    "faculty_1b7b9722",
+    "faculty_3c8415e8",
+    "faculty_9d058d27",
+    "faculty_3522bb23",
+    "faculty_562f9a54",
+    "faculty_1a159942",
+    "faculty_fe1f3a7d",
+    "faculty_c6e7a824",
+    "faculty_400147be",
+    "faculty_8ed41dec",
+    "faculty_bb498612",
+    "faculty_518e12b2",
+    "faculty_c6d0e12a",
+    "faculty_0405bd51",
+    "faculty_6ce174ee",
+    "faculty_ae055a3f",
+    "faculty_af623f69",
+    "faculty_eb78c521",
+    "faculty_591c3a20",
+    "faculty_1f9eee80",
+    "faculty_739b9e0f",
+    "faculty_3f1cc9e0",
+    "faculty_81140d91",
+    "faculty_d4985217",
+    "faculty_186adc61",
+    "faculty_20615a69",
+    "faculty_03de69b4",
+    "faculty_c55effec",
+    "faculty_496b37e7",
+    "faculty_b4d1379e",
+    "faculty_59ee848c",
+    "faculty_9b04096f",
+    "faculty_2f90a8de",
+    "faculty_e20422aa",
+    "faculty_6bdad089",
+    "faculty_07d66895",
+    "faculty_5fb2317f",
+    "faculty_a18c1040",
+    "faculty_95eecb42",
+    "faculty_bdea0fb2",
+    "faculty_a75bcc1f",
+    "faculty_ddc25cb0",
+    "faculty_ff96c2d7",
+    "faculty_eea9cab0",
+    "faculty_f207e377",
+    "faculty_dca325c5",
+    "faculty_ebed3a8c",
+    "faculty_aa8f25b2",
+    "faculty_6cc028b2",
+    "faculty_52958981",
+    "faculty_ca13f73f",
+    "faculty_fa00d86c",
+    "faculty_be637b71",
+    "faculty_07bfdc30",
+    "faculty_e3e4e43c",
+    "faculty_810f10c3",
+    "faculty_7171e945",
+    "faculty_b74c0509",
+    "faculty_686195c7",
+    "faculty_56514e17",
+    "faculty_b80cf960",
+    "faculty_cce10396",
+    "faculty_8b20b418",
+    "faculty_51f6b8bb",
+    "faculty_6f6c4019",
+    "faculty_3b437e0d",
+    "faculty_7a8f9761",
+    "faculty_bcdd130f",
+    "faculty_0dc96922",
+    "faculty_098e87e5",
+    "faculty_68c1fa1e",
+    "faculty_234d603b",
+    "faculty_318decd0",
+    "faculty_edc2852a",
+    "faculty_07b501e4",
+    "faculty_73d97681",
+    "faculty_45802428",
+    "faculty_ec0f160e",
+    "faculty_47de454d",
+    "faculty_307647f4",
+    "faculty_cebbb42c",
+    "faculty_8dc157ad",
+    "faculty_f23d150a",
+    "faculty_5ea541f1",
+    "faculty_cf619fde",
+    "faculty_ee56cdcf",
+    "faculty_03532166",
+    "faculty_b3d5cb69",
+    "faculty_82712d91",
+    "faculty_b1424696",
+    "faculty_00bfb8c4",
+    "faculty_5181041b",
+    "faculty_98179693",
+    "faculty_69d159f0",
+    "faculty_0221bc9f",
+    "faculty_8b23dfb1",
+    "faculty_3c9aa2bb",
+    "faculty_e1bbda8e",
+    "faculty_1f61ca87",
+    "faculty_b9af352f",
+    "faculty_eefa889c",
+    "faculty_dd1599e8",
+    "faculty_3bce60a7",
+    "faculty_dd65c594",
+    "faculty_0907721d",
+    "faculty_90ff9a8a",
+    "faculty_ee215967",
+    "faculty_dcdec837",
+    "faculty_f3db3bec",
+    "faculty_41229aac",
+    "faculty_25e8756d",
+    "faculty_a7ec5533",
+    "faculty_b2a3f72b",
+    "faculty_6f0b0159",
+    "faculty_fdf8fee9",
+    "faculty_9ffc6cd3",
+    "faculty_cbb13c4f",
+    "faculty_1168a490",
+    "faculty_89857493",
+    "faculty_40992f53",
+    "faculty_6d3e45a5",
+    "faculty_6bccc11b",
+    "faculty_5fa47251",
+    "faculty_3d06960a",
+    "faculty_2dc46f86",
+    "faculty_a0e4dd50",
+    "faculty_47a08aa0",
+    "faculty_fb055513",
+    "faculty_8946b69d",
+    "faculty_808bd7ad",
+    "faculty_dd8e0283",
+    "faculty_a552def6",
+    "faculty_369a585d",
+    "faculty_b93b7a39",
+    "faculty_26241fcb",
+    "faculty_0c467131",
+    "faculty_bb9f62b8",
+    "faculty_9899d53d",
+    "faculty_c6ed31df",
+    "faculty_dde0b4b8",
+    "faculty_c0ed10fd",
+    "faculty_28d3580e",
+    "faculty_aa806d1c",
+    "faculty_18219385",
+    "faculty_0c9d41f3",
+    "faculty_347fd3f8",
+    "faculty_453abf5e",
+    "faculty_ed256fbb",
+    "faculty_1ff4a94a",
+    "faculty_9cef3c41",
+    "faculty_0d09f060",
+    "faculty_4bd5e9e9",
+    "faculty_7270fb58",
+    "faculty_87bde009",
+    "faculty_65490d89",
+    "faculty_c27121d8",
+    "faculty_c6128351",
+    "faculty_ee82bbae",
+    "faculty_cdd2e7fa",
+    "faculty_f47640ae",
+    "faculty_762b62a2",
+    "faculty_c5ae2408",
+    "faculty_f60bbf0a",
+    "faculty_0afe3439",
+    "faculty_d0af4644",
+    "faculty_51f98aaa",
+    "faculty_039e8bfe",
+    "faculty_3d60938b",
+    "faculty_5f17aacf",
+    "faculty_177e746c",
+    "faculty_fee2630b",
+    "faculty_a615b00b",
+    "faculty_98df8a75",
+    "faculty_aabe2bac",
+    "faculty_e92f3a26",
+    "faculty_e8acd6d2",
+    "faculty_69c8875a",
+    "faculty_3b21a1c2",
+    "faculty_ac3e2b04",
+    "faculty_2dacdf40",
+    "faculty_58c01c73",
+    "faculty_8761162f",
+    "faculty_7dd6f543",
+    "faculty_d21ceff9",
+    "faculty_14c0fc3e",
+    "faculty_ee2ecc83",
+    "faculty_62c3652b",
+    "faculty_86fe1333",
+    "faculty_0a876768",
+    "faculty_eba744b0",
+    "faculty_60d1d7f1",
+    "faculty_bd07111a",
+    "faculty_90dd5580",
+    "faculty_7cdbe74a",
+    "faculty_c29955d9",
+    "faculty_89cda5c8",
+    "faculty_63ba0c2c",
+    "faculty_e8ea0f23",
+    "faculty_fb390d72",
+    "faculty_52932511",
+    "faculty_dec856f7",
+    "faculty_69fa230b",
+    "faculty_85761478",
+    "faculty_1b8436da",
+    "faculty_f89c64f0",
+    "faculty_6b34ba8b",
+    "faculty_3bc892e8",
+    "faculty_e4427489",
+    "faculty_b0a080ff",
+    "faculty_34c63d8c",
+    "faculty_5df8e2ac",
+    "faculty_28b8b405",
+    "faculty_d5f1e36a",
+    "faculty_10aecb10",
+    "faculty_514fb3d1",
+    "faculty_f5108a2e",
+    "faculty_f1e45a6b",
+    "faculty_4545fed4",
+    "faculty_12f737ff",
+    "faculty_5f2f87ad",
+    "faculty_4f13721d",
+    "faculty_b156a7b9",
+    "faculty_d07cf581",
+    "faculty_ba74d49e",
+    "faculty_cf37d4c6",
+    "faculty_37dac48d",
+    "faculty_cabba420",
+    "faculty_387ad632",
+    "faculty_7b97d567",
+    "faculty_f59ea4d1",
+    "faculty_3f162733",
+    "faculty_7c67dddc",
+    "faculty_7520da48",
+    "faculty_6e0c0e7f",
+    "faculty_1203342c",
+    "faculty_8430e69a",
+    "faculty_2ef89ba5",
+    "faculty_ed042a5e",
+    "faculty_6eb7782a",
+    "faculty_ace2cb62",
+    "faculty_f5c15dc3",
+    "faculty_a41bdb05",
+    "faculty_ce365777",
+    "faculty_b3e3e6fc",
+    "faculty_7cbc1e14",
+    "faculty_f5028f5c",
+    "faculty_8d973184",
+    "faculty_b0887207",
+    "faculty_3934ed99",
+    "faculty_b203568d",
+    "faculty_aabcb2ac",
+    "faculty_ea94d64a",
+    "faculty_64efc51a",
+    "faculty_15b4fec4",
+    "faculty_79547e9c",
+    "faculty_5c884fd4",
+    "faculty_edeadbf0",
+    "faculty_12e8fb8e",
+    "faculty_b153484b",
+    "faculty_0bd8dc19",
+    "faculty_b88cd059",
+    "faculty_275041c7",
+    "faculty_5300c029",
+    "faculty_1af80d5b",
+    "faculty_d2363563",
+    "faculty_8d7a6b32",
+    "faculty_2ff5e15d",
+    "faculty_a5c49cae",
+    "faculty_3e15fd7a",
+    "faculty_9860437c",
+    "faculty_14e326eb",
+    "faculty_2876652a",
+    "faculty_3d14e854",
+    "faculty_6ec8893e",
+    "faculty_d8bec3e1",
+    "faculty_32266abd",
+    "faculty_bffbdeac",
+    "faculty_2484f319",
+    "faculty_23894a38",
+    "faculty_5b049952",
+    "faculty_44323929",
+    "faculty_3f0a6e24",
+    "faculty_4f3f2120",
+    "faculty_6b2c06ee",
+    "faculty_f6cba434",
+    "faculty_9c971081",
+    "faculty_7a2fcccf",
+    "faculty_3889a823",
+    "faculty_e29617c1",
+    "faculty_86cb1b30",
+    "faculty_a4090612",
+    "faculty_7acc28bf",
+    "faculty_f7fd12b0",
+    "faculty_53c011b8",
+    "faculty_8c39a7bb",
+    "faculty_5ef5039e",
+    "faculty_40db9494",
+    "faculty_78cc1290",
+    "faculty_99bd1cf9",
+    "faculty_083095c5",
+    "faculty_1e8c4f96",
+    "faculty_e8323d3c",
+    "faculty_9b3d50d4",
+    "faculty_a4df65b4",
+    "faculty_bb060692",
+    "faculty_ea1e4c1d",
+    "faculty_e1d9d482",
+    "faculty_5e88fc71",
+    "faculty_4d603fa3",
+    "faculty_d536c626",
+    "faculty_29705017",
+    "faculty_dc873e30",
+    "faculty_6d78aa5d",
+    "faculty_29b0bb01",
+    "faculty_cbb1d63c",
+    "faculty_b3ef1d56",
+    "faculty_a1911ed6",
+    "faculty_5a04d671",
+    "faculty_c35b7bf1",
+    "faculty_5e6859d1",
+    "faculty_3d3a473c",
+    "faculty_defd349d",
+    "faculty_2a513f8e",
+    "faculty_1184dad1",
+    "faculty_cfbf69b8",
+    "faculty_d6914b70",
+    "faculty_f5449a13",
+    "faculty_a4891581",
+    "faculty_f1df43a4",
+    "faculty_8c8b88b6",
+    "faculty_c5d58e21",
+    "faculty_e6b64e9a",
+    "faculty_6e6b63eb",
+    "faculty_77919666",
+    "faculty_d2769341",
+    "faculty_98d11e8f",
+    "faculty_88ed01f5",
+    "faculty_a09d3ca4",
+    "faculty_81ee7048",
+    "faculty_bc2564e3",
+    "faculty_5203cf2e",
+    "faculty_5c1c838a",
+    "faculty_faccc8ee",
+    "faculty_a63c6679",
+    "faculty_b9345221",
+    "faculty_1f987e3e",
+    "faculty_2b87c22f",
+    "faculty_66fb102d",
+    "faculty_72c08f9d",
+    "faculty_7689bc48",
+    "faculty_dd874ba1",
+    "faculty_1bba2689",
+    "faculty_3ae67afa",
+    "faculty_5fb894da",
+    "faculty_20ec1f5b",
+    "faculty_68161396",
+    "faculty_9427a0b4",
+    "faculty_76507db5",
+    "faculty_de6afc41",
+    "faculty_35f6939b",
+    "faculty_f7ce6625",
+    "faculty_4378e717",
+    "faculty_3a177095",
+    "faculty_2ab7bcf6",
+    "faculty_b3249784",
+    "faculty_11b291c6",
+    "faculty_a1fa85f2",
+    "faculty_47c6ac24",
+    "faculty_a137aa9b",
+    "faculty_5e48da75",
+    "faculty_7e626f8f",
+    "faculty_4a072b6a",
+    "faculty_12d58622",
+    "faculty_b7fc6fd5",
+    "faculty_13ce08a3",
+    "faculty_889b4040",
+    "faculty_5f97a9d5",
+    "faculty_1db1ebb0",
+    "faculty_3ec0a62b",
+    "faculty_fbe78749",
+    "faculty_fef2d91e",
+    "faculty_6e59d55f",
+    "faculty_94ea911c",
+    "faculty_248e572c",
+    "faculty_5ce5e5f0",
+    "faculty_d116bdd1",
+    "faculty_b1ce48d4",
+    "faculty_a9d6c9ae",
+    "faculty_3f6fb645",
+    "faculty_d51a13fd",
+    "faculty_891b6bf8",
+    "faculty_91bf5ff9",
+    "faculty_1d1a6c55",
+    "faculty_ff67c03e",
+    "faculty_73452740",
+    "faculty_a6a01073",
+    "faculty_58563cdb",
+    "faculty_2f231015",
+    "faculty_921fb7fc",
+    "faculty_1c325787",
+    "faculty_b6f780ae",
+    "faculty_24bc2090",
+    "faculty_e3ab4673",
+    "faculty_9cd4d989",
+    "faculty_64bde961",
+    "faculty_2c7b8bce",
+    "faculty_71831844",
+    "faculty_50a294e7",
+    "faculty_3ca2ef3e",
+    "faculty_edf9ef60",
+    "faculty_e024fcaf",
+    "faculty_a3bbdbe0",
+    "faculty_6205ead0",
+    "faculty_7eb01ea7",
+    "faculty_116930a9",
+    "faculty_b6027d11",
+    "faculty_40fdf173",
+    "faculty_8506d6e3",
+    "faculty_e502a126",
+    "faculty_a9e1afb2",
+    "faculty_80779407",
+    "faculty_9bc2ec34",
+    "faculty_53d8c30a",
+    "faculty_c77b1c1b",
+    "faculty_c96197a6",
+    "faculty_1eff01c7",
+    "faculty_a226268f",
+    "faculty_b7e4837d",
+    "faculty_c638c8d4",
+    "faculty_64c6cf99",
+    "faculty_9e318c2f",
+    "faculty_3c7a602b",
+    "faculty_9ed8954b",
+    "faculty_34fb30bf",
+    "faculty_b9b2cf32",
+    "faculty_5ef55bdf",
+    "faculty_aad7223b",
+    "faculty_73977d5c",
+    "faculty_fd6f2618",
+    "faculty_1d9e03bd",
+    "faculty_47f4418e",
+    "faculty_3e79a704",
+    "faculty_2d8faeed",
+    "faculty_298f432b",
+    "faculty_3de71560",
+    "faculty_ba9121a5",
+    "faculty_2db615db",
+    "faculty_a1d13247",
+    "faculty_11061fa0",
+    "faculty_83c55f12",
+    "faculty_32e8155b",
+    "faculty_518e41cf",
+    "faculty_9b3fdf69",
+    "faculty_c4cf7baf",
+    "faculty_18cd97f2",
+    "faculty_82b1dc81",
+    "faculty_e3656d04",
+    "faculty_85de4e18",
+    "faculty_f8ac2434",
+    "faculty_9a545214",
+    "faculty_2e0c270e",
+    "faculty_c1b248a3",
+    "faculty_cf5ccc96",
+    "faculty_13c1c813",
+    "faculty_af61a0a2",
+    "faculty_50d2248a",
+    "faculty_e7716624"
+  ],
+  "documents": [
+    "Name: Dr. T. Srinivasa Rao\nDepartment: DEPT : AE\nDesignation: Professor and Dean Student Progression\nQualification: Ph.D.",
+    "Name: Dr. M. Venkata Ramana\nDepartment: DEPT : AE\nDesignation: Professor & ED Cell Coordinator\nQualification: Ph.D.",
+    "Name: Dr. Shaik Amjad\nDepartment: DEPT : AE\nDesignation: Professor & HOD\nQualification: Ph.D.",
+    "Name: Dr. G.V.L. Prasad\nDepartment: DEPT : AE\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Mr. T. Praveen Kumar\nDepartment: DEPT : AE\nDesignation: Assistant Professor\nQualification: M.E",
+    "Name: Mr. R. Ramu\nDepartment: DEPT : AE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. T. Raju\nDepartment: DEPT : AE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. D. Suresh\nDepartment: DEPT : AE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. Venkata Ramarao\nDepartment: DEPT : AE\nDesignation: Assistant Professor\nQualification: M.E",
+    "Name: Mutyala\nDepartment: DEPT : AE\nDesignation: \nQualification: Not specified",
+    "Name: Mr. Mohamad Aziz Athani\nDepartment: DEPT : AE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. M. Krishna\nDepartment: DEPT : AE\nDesignation: Assistant Professor\nQualification: M.E",
+    "Name: Mr. Balappa B. Hadagali\nDepartment: DEPT : AE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. V. Rathinam\nDepartment: DEPT : AE\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Krishna Kumar T.S\nDepartment: DEPT : AE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. Chandrashekhar Banad\nDepartment: DEPT : AE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. Vinay Kulkarni\nDepartment: DEPT : AE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. Bachina Harish Babu\nDepartment: DEPT : AE\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Mr. Manthena Vijay\nDepartment: DEPT : AE\nDesignation: Assistant Professor\nQualification: M.E",
+    "Name: Dr. Ch. Sri Chaitanya\nDepartment: DEPT : AE\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Shaik Aslam Ansari\nDepartment: DEPT : AE\nDesignation: Adjunct Faculty and Head IIR\nQualification: Not specified",
+    "Name: Dr. Krovvidi Sree Rama SivaSai\nDepartment: DEPT : BIO TECHNOLOGY\nDesignation: Professor and HoD\nQualification: PG Diploma",
+    "Name: Dr. Krovvidi Sri Phani Sarath Teja\nDepartment: DEPT : BIO TECHNOLOGY\nDesignation: Assistant Professor\nQualification: Not specified",
+    "Name: Dr. C. Jyotsna\nDepartment: DEPT : CHEMISTRY\nDesignation: Professor & HOD\nQualification: Ph.D.",
+    "Name: Dr. P. Padmavathi\nDepartment: DEPT : CHEMISTRY\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. A.R. Balavardhana Rao\nDepartment: DEPT : CHEMISTRY\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. G. Lakshmi Viveka\nDepartment: DEPT : CHEMISTRY\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. N. Mamatha\nDepartment: DEPT : CHEMISTRY\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Shuchi Tiwari\nDepartment: DEPT : CHEMISTRY\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Ms. S. Pratyusha\nDepartment: DEPT : CHEMISTRY\nDesignation: Assistant Professor\nQualification: M.Sc",
+    "Name: Dr. G. Nirmala\nDepartment: DEPT : CHEMISTRY\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. S. Appa Rao\nDepartment: DEPT : CHEMISTRY\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Narra Sivakrishna\nDepartment: DEPT : CHEMISTRY\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. A. Gangadhara\nDepartment: DEPT : CHEMISTRY\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. A. Sri Charitha\nDepartment: DEPT : CHEMISTRY\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. P. Suresh\nDepartment: DEPT : CHEMISTRY\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Likha Chandran\nDepartment: DEPT : CHEMISTRY\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. N. Kumar Srungavruksham\nDepartment: DEPT : CHEMISTRY\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Chander A Pawar\nDepartment: DEPT : CHEMISTRY\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Rambabu Sydam\nDepartment: DEPT : CHEMISTRY\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Manuri Brahmayya\nDepartment: DEPT : CHEMISTRY\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Archana Kushwaha\nDepartment: DEPT : CHEMISTRY\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Haritha Kiranmai Meduri\nDepartment: DEPT : CHEMISTRY\nDesignation: Assistant Professor\nQualification: Not specified",
+    "Name: Dr. A. Mallika\nDepartment: DEPT : CIVIL\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. BDV Chandra Mohan Rao\nDepartment: DEPT : CIVIL\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. K. Ramujee\nDepartment: DEPT : CIVIL\nDesignation: Professor & HOD\nQualification: Ph.D.",
+    "Name: Dr. B. Narendra Kumar\nDepartment: DEPT : CIVIL\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. A. Ramesh\nDepartment: DEPT : CIVIL\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. K. Ravi Kumar\nDepartment: DEPT : CIVIL\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr. Kadali Srinivas\nDepartment: DEPT : CIVIL\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr. K. Suresh\nDepartment: DEPT : CIVIL\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. G. Lalitha\nDepartment: DEPT : CIVIL\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Mr. PVS Gopi Raghunadh\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. T. Naga Teja\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. P. Arti Sudam\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Mr. K. Veerendra Gopi\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. Sangeetha S.\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Mrs. V. Ramya Krishna\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mrs. A. Jyothirmai\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. J.Y.V. Shiva Bhushan\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Mrs. R. Harika\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. S. Rakesh\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Harinder Devavath\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. B. Murali Krishna\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. K. Sai Sahitya\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Mr. G. Sambasiva Rao\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mrs. J. Soujanya\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. P. Rama Rao\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. Seenu P Z\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. R. Gokulan\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Kasinikota Pardhasaradhi\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Mr. Lohit H\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. T. Srinivasa Rao\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mrs. T. Bhavani Chowdary\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Poonam Shekhawat\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Mr. S. H. Vamsi Krishna\nDepartment: DEPT : CIVIL\nDesignation: Assistant Professor\nQualification: Not specified",
+    "Name: Dr. Sandhya N\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Prof & RDC Head\nQualification: Ph.D.",
+    "Name: Dr. Sagar Yeruva\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assoc. Prof & HOD\nQualification: Ph.D.",
+    "Name: Dr. Rayudu Manjula Sri\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. Kousar Nikhath Alpuri\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr. Malige Gangappa\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr. Bandari Jalender\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr. Awari Harshavardhan\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Kakumani Aruna Kumari\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Gujjeti Nagaraju\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Apparasu Adithya Kashyap\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mannepalli Venkata Krishna Rao\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. Dasari Sri Laxmi\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Kunka Bheemalingappa\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Challabotla Naveen Reddy\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Chalumuru Suresh\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Sayeedakhanum Pathan\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Kancharagunta Kishan Babu\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Bhupesh Deka\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Preety Singh\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Korukonda Naga Durga Saile\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Kakumanu Sreenivasa Rao\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Jakkula Sravanthi\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Rajulapati Sudha\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Rudra Yamini Rani\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Shaik Mabasha\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. Kalidindi Archana\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Yavanamandha Prasanthi\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Etikala Gurumohan Rao\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Vorem Kishore\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Venkannagari Manjula\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Manthena Swapna Kumari\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Ravula Jyothsna\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Yellanki Veda Sahiti\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Muthyala Mehar Sharanya\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Kothakonda Akhila Tejaswini\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Chilukuri Divya\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Kapu Prathyusha\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Bappanna Bhagyashree\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. Sayanti Chatterjee\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Koneru Anitha\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Uppara Veeresh\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Nelluru Anjaneyulu\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. Koganti Nishanth\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Professor of Practice\nQualification: Ph.D.",
+    "Name: Dr. Jasthi Kiran\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Marlapudi Shara Lydia\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Kanchari Bavajigari Anusha\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Manjusha Nambiar\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dondeti Sowmya Chowdary\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Potnuru Lakshmi Prasanna\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Kondepati Anusha\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Pandula Sujatha\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Kolli Veena\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: N. Jaya Sri\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Vaidehi Ramadugu\nDepartment: DEPT: CSE AIML & IOT\nDesignation: Assistant Professor\nQualification: Masters",
+    "Name: Dr. T. Sunil Kumar\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Professor & HOD\nQualification: Ph.D.",
+    "Name: Dr. G. Ramesh Chandra\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Professor (CSE-I/C)\nQualification: Ph.D.",
+    "Name: Dr. M. Raja Sekar\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. P. Neelakantan\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. B.D.V.C. Mohan Rao\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. P. Subhash\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr. R. Vasavi\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. K. Srinivas\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. N. Pushpa Latha\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. GLN Jayaprada\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. R. Kranthi Kumar\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. B. Ganesh Babu\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. P. Tejaswi\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. S. Swathi\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Kriti Ohri\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. P. Jyothi\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Mr. P. Balakesava Reddy\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: M.Tech (Ph.D)",
+    "Name: Mr. Anand Kumar Sharma\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: M.Tech (Ph.D)",
+    "Name: Mrs. Y. Manasa\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: M.Tech (Ph.D)",
+    "Name: Dr. T. Preethi\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. N. Sunanda\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Mrs. A. Pravallika\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: M.Tech (Ph.D)",
+    "Name: Mrs. G. Ashalatha\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: M.Tech (Ph.D)",
+    "Name: Mrs. E. Lalitha\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. G. Sathar\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: M.Tech (Ph.D)",
+    "Name: Mr. Manmath Nath Das\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: M.Tech (Ph.D)",
+    "Name: Dr. Ch. Anil Kumar\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Ms. Issac Neha Margaret\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: M.Tech (Ph.D)",
+    "Name: Mr. K. Sai Bhargav\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: M.Tech (Ph.D)",
+    "Name: Mrs. G. Mounika\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: M.Tech (Ph.D)",
+    "Name: Mrs. P. Devika\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: M.Tech (Ph.D)",
+    "Name: Mr. B. Sangameshwar\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: M.Tech (Ph.D)",
+    "Name: Dr. S. Krishnapriya\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Ch. Akhil\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. A. Pramod Kumar\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. D. Manju\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Spoorthy G\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Mrs. Sreevidya\nDepartment: Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science\nDesignation: Assistant Profes\nQualification: M.TECH",
+    "Name: Dr. Vadlana Baby\nDepartment: DEPT: CSE & CSBS\nDesignation: Associate Professor & HOD\nQualification: Ph.D.",
+    "Name: Dr. Cherukuri Kiran Mai\nDepartment: DEPT: CSE & CSBS\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. Sabbineni Nagini\nDepartment: DEPT: CSE & CSBS\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. Bolneni Venkata Kiranmayee\nDepartment: DEPT: CSE & CSBS\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. Gollapudi Rameshchandra\nDepartment: DEPT: CSE & CSBS\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. Puligundla Neelakantan\nDepartment: DEPT: CSE & CSBS\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. Myneni Madhu Bala\nDepartment: DEPT: CSE & CSBS\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. Malige Gangappa\nDepartment: DEPT: CSE & CSBS\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr. Pasupuleti Venkata Siva Kumar\nDepartment: DEPT: CSE & CSBS\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr. Annapu Reddy Brahmananda Reddy\nDepartment: DEPT: CSE & CSBS\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr. Deepak Sukheja\nDepartment: DEPT: CSE & CSBS\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr. Thayyaba Khatoon MD\nDepartment: DEPT: CSE & CSBS\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr. Anjusha Nitin Pimpalshende\nDepartment: DEPT: CSE & CSBS\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Motupalli Ravi Kanth\nDepartment: DEPT: CSE & CSBS\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Nekkanti Venkata Sailaja\nDepartment: DEPT: CSE & CSBS\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Desapandya Naga Vasundara\nDepartment: DEPT: CSE & CSBS\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Vasavi Ravuri\nDepartment: DEPT: CSE & CSBS\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Redrowthu Vijaya Saraswathi\nDepartment: DEPT: CSE & CSBS\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Kanakala Srinivas\nDepartment: DEPT: CSE & CSBS\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Mrs. Alli Madhavi\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. Pathi Radhika\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech (Ph.D)",
+    "Name: Mr. Thuraka Gnana Prakash\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech (Ph.D)",
+    "Name: Mrs. Somavarapu Jahnavi\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech (Ph.D)",
+    "Name: Mrs. Neerukonda Lakshmi Kalyani\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech (Ph.D)",
+    "Name: Dr. N. Sandeep Chaitanya\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech (Ph.D)",
+    "Name: Mrs. Nyaramneni Sarika\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech (Ph.D)",
+    "Name: Dr. Potluri Tejaswi\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Pokuri Bharath Kumar Chowdary\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Mr. Peddarapu Ramakrishna Chowdary\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech (Ph.D)",
+    "Name: Dr. Kunka Bheemalingappa\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Mrs. Lingineni Indira\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. Chalumuru Suresh\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Kriti Ohri\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. Venkata Ramana Kaneti\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Mrs. K. Jhansi Lakshmi Bai\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. Mannepalli Venkata Krishna Rao\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. Tummala Nagarjuna\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mrs. Siripurapu Nyemeesha\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mrs. Putti Jyothi\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mrs. Bhagya Rekha Konkepudi\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Shaik Abdul Hameed\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mrs. Pabba Prasanna\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mrs. Gopisetti Laxmi Deepthi\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mrs. Kodali Hari Priya\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mrs. Sadula Sudeshna\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. Pinapati Sudheer Benarji\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. Indurthi Ravindra Kumar\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. Manchikatla Srikanth\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. Perunalla Praveen\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mrs. Chappidi Sandhya Rani\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mrs. Vijaya Bhasakara Reddy V\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech (Ph.D)",
+    "Name: Mr. Ch. Suresh Kumar Raju\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech (Ph.D)",
+    "Name: Mr. P. Rajesh\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Sk. Saddam Hussain\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech (Ph.D)",
+    "Name: Mr. M. Ram Babu\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mrs. V. Dhanalakshmi\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mrs. A. Katyayani\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. Palakurthi Ramesh\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. Karumuri Sri Rama Murthy\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Mr. Thirupathi Nanuvala\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. Karnam Akhil\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Ms. Sampath Alankritha\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mrs. Swathi Kadari\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: Not specified",
+    "Name: Mr. N. Praveen Kumar\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: Not specified",
+    "Name: Mrs. Abbi Sandhya Rani\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: Not specified",
+    "Name: Mrs. Shetkar Ambika\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: Not specified",
+    "Name: Mr. Somanadha Satyadev Bulusu\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: Not specified",
+    "Name: Mrs. Srijita Majumder\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: Not specified",
+    "Name: Mrs. G. Dhruva Manasa\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. A. V. S. Swetha\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: Not specified",
+    "Name: Inayath Sana\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Malle Sandeep\nDepartment: DEPT: CSE & CSBS\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. C. D. Naidu\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Professor & Advisor\nQualification: Ph.D.",
+    "Name: Dr. Y. Padma Sai\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. L. Padma Sree\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Professor & HOD\nQualification: Ph.D.",
+    "Name: Dr. S. Rajendra Prasad\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Professor & Dean Administration\nQualification: Ph.D.",
+    "Name: Dr. Ranjan Kumar\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. V. Krishna Sree\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Shaik Khadar Sharif\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Associate Professor\nQualification: M.Tech",
+    "Name: Dr. N. Dhana Lakshmi\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr. A. Ramesh Kumar\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr. Y. Chalapathi Rao\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr. P. Kishore\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr. L. V. Rajani Kumari\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr. K. Archana Bhange\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. V. Priyanka\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. K. Kalyan Srinivas\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. V. Sagar Reddy\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. G. Sahitya\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. J. L. V. Ramana Kumari\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Helan Satish\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. K. Jyostna\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. D. Kanthi Sudha\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. L. Dharma Teja\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. G. Shanthi\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. G. Vijaya Kumar\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: V. Naveen Kumar\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. D. Ramesh Reddy\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Haritha Mittapally\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: K. Deepthi\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. B. B. Shabarinath\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Ch. Ganesh\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: K. Sangeetha\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. Pradeep Kumar\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Santosh Kumar Choudhary\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. D. Santhosh Kumar\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Ch. Raja Kumari\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: S. Naga Leela\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: P. Suresh Babu\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: G. Ramya\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: M. Rama Devi\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: J. V. A. Bala Krishna\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: C. Kaushik\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: V. Alekhya\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: R. Ravi Kumar\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. Srinivas Talasila\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. N. Neelima\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: M. Bhagya Lakshmi\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. E. Vijaya Babu\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Sk. Shoukat Vali\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Sri Rama Y\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Sireesha Amaraneni\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Chiranjeevi Thokala\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mrs. Katta Mounika\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. V. Pradeep Kumar\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Mrs. N. Syamala\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. G. Kiran Kumar\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Mrs. S. Baswarani\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Kamepalli Dharani\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: M. Rama Rao\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Ms. Shruti Munde\nDepartment: DEPT: ECE & ECE VLSI\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. Poonam Upadhyay\nDepartment: DEPT : EEE\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. K. Anuradha\nDepartment: DEPT : EEE\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. J. Viswanatha Rao\nDepartment: DEPT : EEE\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. N. Krishna Kumari\nDepartment: DEPT : EEE\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. V. Ramesh Babu\nDepartment: DEPT : EEE\nDesignation: Professor & HOD\nQualification: Ph.D.",
+    "Name: Dr. Y. Venu\nDepartment: DEPT : EEE\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. G. Sasi Kumar\nDepartment: DEPT : EEE\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr. B. Neelakanteshwar Rao\nDepartment: DEPT : EEE\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr. J. Srinivasa Rao\nDepartment: DEPT : EEE\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr. J. Bhavani\nDepartment: DEPT : EEE\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr. K. Veeresham\nDepartment: DEPT : EEE\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr. D. Ravi Kumar\nDepartment: DEPT : EEE\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr. E. Shiva Prasad\nDepartment: DEPT : EEE\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr. G. Radhika\nDepartment: DEPT : EEE\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Mr. P. Ramesh\nDepartment: DEPT : EEE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mrs. M. Nagajyothi\nDepartment: DEPT : EEE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. G. C. Prabhakar\nDepartment: DEPT : EEE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. D. S. G. Krishna\nDepartment: DEPT : EEE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mrs. S. Poornima\nDepartment: DEPT : EEE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. R. Geshma Kumari\nDepartment: DEPT : EEE\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. O. Sobhana\nDepartment: DEPT : EEE\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Mr. N. Amarnadh Reddy\nDepartment: DEPT : EEE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Ms. I. Neelima\nDepartment: DEPT : EEE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. B. Devulal\nDepartment: DEPT : EEE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Ms. K. Sravani\nDepartment: DEPT : EEE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. G. Lakshminarayana\nDepartment: DEPT : EEE\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Rashmi Kapoor\nDepartment: DEPT : EEE\nDesignation: Senior Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. A. Giri Prasad\nDepartment: DEPT : EEE\nDesignation: Senior Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. P. Nagabushanam\nDepartment: DEPT : EEE\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Mr. K. Srikanth\nDepartment: DEPT : EEE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. K. Subhash Babu\nDepartment: DEPT : EEE\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Ms. G. Anjali Devi\nDepartment: DEPT : EEE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Ms. B. Naga Swetha\nDepartment: DEPT : EEE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mrs. B. Madhuri\nDepartment: DEPT : EEE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. A. Ravi Kumar\nDepartment: DEPT : EEE\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Ms. B. Harshini\nDepartment: DEPT : EEE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. A. Anil Kumar\nDepartment: DEPT : EEE\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. N. Nageswara Reddy\nDepartment: DEPT : EEE\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Ch. Rami Reddy\nDepartment: DEPT : EEE\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Manjula Sri\nDepartment: DEPT: EIE\nDesignation: Professor\nQualification: Ph.D",
+    "Name: Dr. M. Sreedhar\nDepartment: DEPT: EIE\nDesignation: Professor\nQualification: Ph.D",
+    "Name: Dr. K. Vidyasagar\nDepartment: DEPT: EIE\nDesignation: Professor\nQualification: Ph.D",
+    "Name: Dr. S. Pranavanand\nDepartment: DEPT: EIE\nDesignation: Associate Professor & HOD\nQualification: Ph.D",
+    "Name: Dr. K. Sudha Rani\nDepartment: DEPT: EIE\nDesignation: Associate Professor\nQualification: Ph.D",
+    "Name: Dr. Harikrishna Mulam\nDepartment: DEPT: EIE\nDesignation: Associate Professor\nQualification: Ph.D",
+    "Name: Dr. Anita Kulkarni\nDepartment: DEPT: EIE\nDesignation: Associate Professor\nQualification: M.Tech",
+    "Name: Dr. V. Nageshwar\nDepartment: DEPT: EIE\nDesignation: Associate Professor\nQualification: Ph.D",
+    "Name: Dr. C. Kiran\nDepartment: DEPT: EIE\nDesignation: Associate Professor\nQualification: Ph.D",
+    "Name: Ms. D. V. Shobhana\nDepartment: DEPT: EIE\nDesignation: Sr. Assistant Professor\nQualification: M.E",
+    "Name: Priscilla\nDepartment: DEPT: EIE\nDesignation: \nQualification: Not specified",
+    "Name: Mr. C. V. Rambabu\nDepartment: DEPT: EIE\nDesignation: Sr. Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. K. Vijay Chandra\nDepartment: DEPT: EIE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. A. Adithya Kashyap\nDepartment: DEPT: EIE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. S. Nagarjuna Chary\nDepartment: DEPT: EIE\nDesignation: Assistant Professor\nQualification: M.E",
+    "Name: Dr. Vandana Samanthula\nDepartment: DEPT: EIE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. G. Vamsi Krishna\nDepartment: DEPT: EIE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. S. S. Bharati Sagi\nDepartment: DEPT: EIE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. Naregalkar Akshay\nDepartment: DEPT: EIE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. P. V. Gopi Kumar\nDepartment: DEPT: EIE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. J. Jyothirmai\nDepartment: DEPT: EIE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. D. Srilaxmi\nDepartment: DEPT: EIE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. P. Sampurna Lakshmi\nDepartment: DEPT: EIE\nDesignation: Assistant Professor\nQualification: Ph.D",
+    "Name: Ms. D. Swetha\nDepartment: DEPT: EIE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. S. Bhargav\nDepartment: DEPT: EIE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. B. Rajashekara\nDepartment: DEPT: EIE\nDesignation: Assistant Professor\nQualification: Ph.D",
+    "Name: Reddy\nDepartment: DEPT: EIE\nDesignation: \nQualification: Not specified",
+    "Name: Dr. S. Senthilkumar\nDepartment: DEPT: EIE\nDesignation: Assistant Professor\nQualification: Ph.D",
+    "Name: Mr. Ch. Venkanna\nDepartment: DEPT: EIE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr. Haroon Rasheed\nDepartment: DEPT: EIE\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr. A. Srinivasulu\nDepartment: DEPT: EIE\nDesignation: Assistant Professor\nQualification: Ph.D",
+    "Name: Dr. M. N. Reddy\nDepartment: DEPT: EIE\nDesignation: Adjunct Professor\nQualification: M.Tech",
+    "Name: Dr. Kanchana Sundaram\nDepartment: DEPT: English\nDesignation: Assoc. Prof. & HoD\nQualification: Ph.D.",
+    "Name: Dr. D. Sudha Rani\nDepartment: DEPT: English\nDesignation: Assoc. Prof.\nQualification: Ph.D.",
+    "Name: Dr. K. Neelaveni\nDepartment: DEPT: English\nDesignation: Assoc. Prof.\nQualification: Ph.D.",
+    "Name: Dr. Prathiva Rani Saha\nDepartment: DEPT: English\nDesignation: Asst. Prof.\nQualification: Ph.D.",
+    "Name: Dr. Rachel Irdayaraj\nDepartment: DEPT: English\nDesignation: Asst. Prof.\nQualification: Ph.D.",
+    "Name: Dr. Khamar Jahan\nDepartment: DEPT: English\nDesignation: Asst. Prof.\nQualification: Ph.D.",
+    "Name: Dr. K Ujjwala\nDepartment: DEPT: English\nDesignation: Asst. Prof.\nQualification: Ph.D.",
+    "Name: Dr. Y.V. Sudha Devi\nDepartment: DEPT: English\nDesignation: Asst. Prof.\nQualification: Ph.D.",
+    "Name: Dr. Waheed Shafia\nDepartment: DEPT: English\nDesignation: Asst. Prof.\nQualification: Ph.D.",
+    "Name: Dr. J. Lalitha Sridevi\nDepartment: DEPT: English\nDesignation: Asst. Prof.\nQualification: Ph.D.",
+    "Name: Dr. Somwrita Ghosh\nDepartment: DEPT: English\nDesignation: Asst. Prof.\nQualification: Ph.D.",
+    "Name: Dr. Ruchika Rai\nDepartment: DEPT: English\nDesignation: Asst. Prof.\nQualification: Ph.D.",
+    "Name: Dr. Ayesha Salma\nDepartment: DEPT: English\nDesignation: Asst. Prof.\nQualification: Ph.D.",
+    "Name: Ms. D Divya\nDepartment: DEPT: English\nDesignation: Asst. Prof.\nQualification: M.A. (Pursuing Ph.D.)",
+    "Name: Mr. K Ashok\nDepartment: DEPT: English\nDesignation: Asst. Prof.\nQualification: M.Phil. (Pursuing Ph.D.)",
+    "Name: Ms. R Sreepriya\nDepartment: DEPT: English\nDesignation: Asst. Prof.\nQualification: M.A. (Pursuing Ph.D.)",
+    "Name: Dr.N Mangathayaru\nDepartment: Dept: Information Technology\nDesignation: Professor & HOD\nQualification: Ph.D.",
+    "Name: Dr.G Suresh Reddy\nDepartment: Dept: Information Technology\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr.G Madhu\nDepartment: Dept: Information Technology\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr.D.Srinivasa Rao\nDepartment: Dept: Information Technology\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr.B.Mathura Bai\nDepartment: Dept: Information Technology\nDesignation: Associate Professor\nQualification: M.Tech",
+    "Name: Dr.B.Venkata Seshu\nDepartment: Dept: Information Technology\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Kumari\nDepartment: Dept: Information Technology\nDesignation: \nQualification: Not specified",
+    "Name: Dr.Gunupudi Rajesh\nDepartment: Dept: Information Technology\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Kumar\nDepartment: Dept: Information Technology\nDesignation: \nQualification: Not specified",
+    "Name: Dr.V.Radhakrishna\nDepartment: Dept: Information Technology\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr.G Naga Chandrika\nDepartment: Dept: Information Technology\nDesignation: Sr.Assistant Professor\nQualification: Ph.D.",
+    "Name: Mrs.Renuka Kondabala\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr.Ravi Tene\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr.M.Koteswara Rao\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech.",
+    "Name: Mrs.A.Revathi\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr.D Kalyani\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr.Vemulapalli Saritha\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: Ph.D",
+    "Name: Mrs.M.Susmitha\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr.S Murali Mohan\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr.I. Pavan Kumar\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr.Srivani B\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mrs.S.Renu Deepti\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr A.Sreenivasa Rao\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Mrs.Ch.Rohini\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr.Dakshayani Himabindu\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Dr.Keesara Sravanthi\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mrs Raswitha Bandi\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr V. Sravan Kiran\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Kamala Challa\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: K. Radhika\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Manoj Kumar Vemula\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: M.Radha\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mr.S.KumaraSwamy\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mrs. S. Anoosha\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Soujanya Ambala\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: V. Anu Ragavi\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Mrs. Jyotsnarani\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Tripathy\nDepartment: Dept: Information Technology\nDesignation: \nQualification: Not specified",
+    "Name: P.Veeranjaneyulu\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Donthamsetti Veera\nDepartment: Dept: Information Technology\nDesignation: Assistant Professor\nQualification: M.Tech",
+    "Name: Bhadra Rao\nDepartment: Dept: Information Technology\nDesignation: \nQualification: Not specified",
+    "Name: Dr.P.Aparna\nDepartment: Dept: Maths and Management\nDesignation: Associate Professor & Head\nQualification: Ph.D.",
+    "Name: Dr.N.Pothanna\nDepartment: Dept: Maths and Management\nDesignation: Associate Professor\nQualification: Ph.D.",
+    "Name: Dr.J.Srinivas\nDepartment: Dept: Maths and Management\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr.G.Jithender Reddy\nDepartment: Dept: Maths and Management\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. D. Swarnakar\nDepartment: Dept: Maths and Management\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr.G.Sireesha\nDepartment: Dept: Maths and Management\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr.V.Ganesh kumar\nDepartment: Dept: Maths and Management\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. T. Kusuma\nDepartment: Dept: Maths and Management\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr R. Srilatha\nDepartment: Dept: Maths and Management\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. P. Raja Shekar\nDepartment: Dept: Maths and Management\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. T. Siva Nageswara\nDepartment: Dept: Maths and Management\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Rao\nDepartment: Dept: Maths and Management\nDesignation: \nQualification: Not specified",
+    "Name: Dr.M Pavan Kumar Reddy\nDepartment: Dept: Maths and Management\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Ch Shashi kumar\nDepartment: Dept: Maths and Management\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. B. Naga Malleswari\nDepartment: Dept: Maths and Management\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. G Swapna\nDepartment: Dept: Maths and Management\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr.B.Prathyusha\nDepartment: Dept: Maths and Management\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr.N.Aruna Kumari\nDepartment: Dept: Maths and Management\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Mr. K.V.L.N. Pavan\nDepartment: Dept: Maths and Management\nDesignation: Assistant Professor\nQualification: M.Phil",
+    "Name: Kumar\nDepartment: Dept: Maths and Management\nDesignation: \nQualification: Not specified",
+    "Name: Mr. K.Anil Kumar\nDepartment: Dept: Maths and Management\nDesignation: Assistant Professor\nQualification: M.Phil",
+    "Name: Ms. CH V L L Kusuma\nDepartment: Dept: Maths and Management\nDesignation: Assistant Professor\nQualification: M.B.A",
+    "Name: Kumari\nDepartment: Dept: Maths and Management\nDesignation: \nQualification: Not specified",
+    "Name: B. Sri Pavani\nDepartment: Dept: Maths and Management\nDesignation: Assistant Professor\nQualification: M.B.A",
+    "Name: Dr Kilaru Madhavi\nDepartment: Dept: Maths and Management\nDesignation: Assistant Professor\nQualification: Ph.D",
+    "Name: Dr. R Arpitha\nDepartment: Dept: Maths and Management\nDesignation: Assistant Professor\nQualification: Ph.D",
+    "Name: Dr. Vivekananda Rayanki\nDepartment: Dept: Maths and Management\nDesignation: Assistant Professor\nQualification: Ph.D",
+    "Name: Dr.G.Gangadhar\nDepartment: Dept: Maths and Management\nDesignation: Assistant Professor\nQualification: Ph.D",
+    "Name: V. Swathi\nDepartment: Dept: Maths and Management\nDesignation: Assistant Professor\nQualification: Ph.D",
+    "Name: Dr. B. V. R. Ravi Kumar\nDepartment: Dept: Mechanical\nDesignation: Professor & HOD\nQualification: Ph.D.",
+    "Name: Dr. B. Chennakesava Rao\nDepartment: Dept: Mechanical\nDesignation: Principal\nQualification: Ph.D.",
+    "Name: Dr. P. S. Prasad\nDepartment: Dept: Mechanical\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. G. Srinivasa Gupta\nDepartment: Dept: Mechanical\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. M. V. R. Durga\nDepartment: Dept: Mechanical\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Prasad\nDepartment: Dept: Mechanical\nDesignation: \nQualification: Not specified",
+    "Name: Dr. G. Raghu Babu\nDepartment: Dept: Mechanical\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. K. Balashowry\nDepartment: Dept: Mechanical\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. E. V. Ramana\nDepartment: Dept: Mechanical\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. Y. Shivraj Narayan\nDepartment: Dept: Mechanical\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. B. Satyanarayana\nDepartment: Dept: Mechanical\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Dr. K. Ajay Kumar\nDepartment: Dept: Mechanical\nDesignation: Professor\nQualification: Ph.D.",
+    "Name: Sri. S. R. Somayajulu\nDepartment: Dept: Mechanical\nDesignation: Assoc. Prof.\nQualification: M.Tech",
+    "Name: Dr. N. Kiran Kumar\nDepartment: Dept: Mechanical\nDesignation: Assoc. Prof.\nQualification: Ph.D.",
+    "Name: Dr. K. Jaya Prakash\nDepartment: Dept: Mechanical\nDesignation: Sr. Asst. Prof.\nQualification: Ph.D.",
+    "Name: Dr. Jayashri Nair\nDepartment: Dept: Mechanical\nDesignation: Sr. Asst. Prof.\nQualification: Ph.D.",
+    "Name: Dr. K. Aruna Prabha\nDepartment: Dept: Mechanical\nDesignation: Sr. Asst. Prof.\nQualification: Ph.D.",
+    "Name: Dr. M. S. Srinivasa Rao\nDepartment: Dept: Mechanical\nDesignation: Sr. Asst. Prof.\nQualification: Ph.D.",
+    "Name: Dr. D. Sarath Chandra\nDepartment: Dept: Mechanical\nDesignation: Asst. Prof.\nQualification: M.Tech",
+    "Name: Dr. V. V. Durga Sahithi\nDepartment: Dept: Mechanical\nDesignation: Asst. Prof.\nQualification: M.Tech",
+    "Name: Dr. N. Srilatha\nDepartment: Dept: Mechanical\nDesignation: Asst. Prof.\nQualification: M.Tech",
+    "Name: Dr. K. Krishna Murthy\nDepartment: Dept: Mechanical\nDesignation: Asst. Prof.\nQualification: Ph.D.",
+    "Name: Sri. P. Prasad Kumar\nDepartment: Dept: Mechanical\nDesignation: Asst. Prof.\nQualification: M.Tech",
+    "Name: Dr. S. Bhanu Murthy\nDepartment: Dept: Mechanical\nDesignation: Asst. Prof.\nQualification: M.E",
+    "Name: Dr. L. Sandeep Raj\nDepartment: Dept: Mechanical\nDesignation: Asst. Prof.\nQualification: Ph.D.",
+    "Name: Dr. H. Naresh\nDepartment: Dept: Mechanical\nDesignation: Asst. Prof.\nQualification: Ph.D.",
+    "Name: Sri. P. Narendra\nDepartment: Dept: Mechanical\nDesignation: Asst. Prof.\nQualification: M.Tech",
+    "Name: Sri. S. N. S. Sai Hari\nDepartment: Dept: Mechanical\nDesignation: Asst. Prof.\nQualification: M.Tech",
+    "Name: Dr. CH. Priya Darsini\nDepartment: Dept: Mechanical\nDesignation: Asst. Prof.\nQualification: M.Tech",
+    "Name: Smt. S. Swetha\nDepartment: Dept: Mechanical\nDesignation: Asst. Prof.\nQualification: M.E",
+    "Name: Dr. V. Siva Rama\nDepartment: Dept: Mechanical\nDesignation: Asst. Prof.\nQualification: Ph.D.",
+    "Name: Krishna\nDepartment: Dept: Mechanical\nDesignation: \nQualification: Not specified",
+    "Name: Sri. T. Malyadri\nDepartment: Dept: Mechanical\nDesignation: Asst. Prof.\nQualification: M.Tech",
+    "Name: Dr. CH. Naveen Reddy\nDepartment: Dept: Mechanical\nDesignation: Asst. Prof.\nQualification: M.Tech",
+    "Name: Smt. CH. Rajeswari\nDepartment: Dept: Mechanical\nDesignation: Asst. Prof.\nQualification: M.Tech",
+    "Name: Dr. S.V. Satya Prasad\nDepartment: Dept: Mechanical\nDesignation: Asst. Prof.\nQualification: M.Tech",
+    "Name: Dr. G.V. Subhash\nDepartment: Dept: Mechanical\nDesignation: Asst. Prof.\nQualification: M.Tech",
+    "Name: Dr. N. Shiva Kumar\nDepartment: Dept: Mechanical\nDesignation: Asst. Prof.\nQualification: Ph.D.",
+    "Name: Dr. Sujith Bobba\nDepartment: Dept: Mechanical\nDesignation: Asst. Prof.\nQualification: Ph.D.",
+    "Name: Dr. A. Syam Prasad\nDepartment: Dept: Mechanical\nDesignation: Asst. Prof.\nQualification: Ph.D.",
+    "Name: Dr. Ashok Bhogi\nDepartment: Dept: Physics\nDesignation: Sr. Assistant Professor, HoD\nQualification: Ph.D.",
+    "Name: Dr. L. Srinivasa Rao\nDepartment: Dept: Physics\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. T. Rajani\nDepartment: Dept: Physics\nDesignation: Sr. Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. P. Pavan Kumar\nDepartment: Dept: Physics\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. K. S. Rudramamba\nDepartment: Dept: Physics\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. C. Thirmal\nDepartment: Dept: Physics\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. M. Sumithra\nDepartment: Dept: Physics\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. N. Suresh Kumar\nDepartment: Dept: Physics\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. G. Suresh\nDepartment: Dept: Physics\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. N. V. Suresh Kumar\nDepartment: Dept: Physics\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. G. Venkateswara Rao\nDepartment: Dept: Physics\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Venkata Sai Dasari\nDepartment: Dept: Physics\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. B. Srinivas\nDepartment: Dept: Physics\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. M. Ramesh\nDepartment: Dept: Physics\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. D. N. Prasad\nDepartment: Dept: Physics\nDesignation: Assistant Professor\nQualification: Ph.D.",
+    "Name: Dr. Nellutla Jahangeer\nDepartment: Dept: Physics\nDesignation: Assistant Professor\nQualification: Ph.D."
+  ],
+  "metadatas": [
+    {
+      "name": "Dr. T. Srinivasa Rao",
+      "department": "DEPT : AE",
+      "designation": "Professor and Dean Student Progression",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. M. Venkata Ramana",
+      "department": "DEPT : AE",
+      "designation": "Professor & ED Cell Coordinator",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Shaik Amjad",
+      "department": "DEPT : AE",
+      "designation": "Professor & HOD",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. G.V.L. Prasad",
+      "department": "DEPT : AE",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mr. T. Praveen Kumar",
+      "department": "DEPT : AE",
+      "designation": "Assistant Professor",
+      "qualification": "M.E"
+    },
+    {
+      "name": "Mr. R. Ramu",
+      "department": "DEPT : AE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. T. Raju",
+      "department": "DEPT : AE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. D. Suresh",
+      "department": "DEPT : AE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. Venkata Ramarao",
+      "department": "DEPT : AE",
+      "designation": "Assistant Professor",
+      "qualification": "M.E"
+    },
+    {
+      "name": "Mutyala",
+      "department": "DEPT : AE",
+      "designation": "",
+      "qualification": "Not specified"
+    },
+    {
+      "name": "Mr. Mohamad Aziz Athani",
+      "department": "DEPT : AE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. M. Krishna",
+      "department": "DEPT : AE",
+      "designation": "Assistant Professor",
+      "qualification": "M.E"
+    },
+    {
+      "name": "Mr. Balappa B. Hadagali",
+      "department": "DEPT : AE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. V. Rathinam",
+      "department": "DEPT : AE",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Krishna Kumar T.S",
+      "department": "DEPT : AE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. Chandrashekhar Banad",
+      "department": "DEPT : AE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. Vinay Kulkarni",
+      "department": "DEPT : AE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. Bachina Harish Babu",
+      "department": "DEPT : AE",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mr. Manthena Vijay",
+      "department": "DEPT : AE",
+      "designation": "Assistant Professor",
+      "qualification": "M.E"
+    },
+    {
+      "name": "Dr. Ch. Sri Chaitanya",
+      "department": "DEPT : AE",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Shaik Aslam Ansari",
+      "department": "DEPT : AE",
+      "designation": "Adjunct Faculty and Head IIR",
+      "qualification": "Not specified"
+    },
+    {
+      "name": "Dr. Krovvidi Sree Rama SivaSai",
+      "department": "DEPT : BIO TECHNOLOGY",
+      "designation": "Professor and HoD",
+      "qualification": "PG Diploma"
+    },
+    {
+      "name": "Dr. Krovvidi Sri Phani Sarath Teja",
+      "department": "DEPT : BIO TECHNOLOGY",
+      "designation": "Assistant Professor",
+      "qualification": "Not specified"
+    },
+    {
+      "name": "Dr. C. Jyotsna",
+      "department": "DEPT : CHEMISTRY",
+      "designation": "Professor & HOD",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. P. Padmavathi",
+      "department": "DEPT : CHEMISTRY",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. A.R. Balavardhana Rao",
+      "department": "DEPT : CHEMISTRY",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. G. Lakshmi Viveka",
+      "department": "DEPT : CHEMISTRY",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. N. Mamatha",
+      "department": "DEPT : CHEMISTRY",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Shuchi Tiwari",
+      "department": "DEPT : CHEMISTRY",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Ms. S. Pratyusha",
+      "department": "DEPT : CHEMISTRY",
+      "designation": "Assistant Professor",
+      "qualification": "M.Sc"
+    },
+    {
+      "name": "Dr. G. Nirmala",
+      "department": "DEPT : CHEMISTRY",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. S. Appa Rao",
+      "department": "DEPT : CHEMISTRY",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Narra Sivakrishna",
+      "department": "DEPT : CHEMISTRY",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. A. Gangadhara",
+      "department": "DEPT : CHEMISTRY",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. A. Sri Charitha",
+      "department": "DEPT : CHEMISTRY",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. P. Suresh",
+      "department": "DEPT : CHEMISTRY",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Likha Chandran",
+      "department": "DEPT : CHEMISTRY",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. N. Kumar Srungavruksham",
+      "department": "DEPT : CHEMISTRY",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Chander A Pawar",
+      "department": "DEPT : CHEMISTRY",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Rambabu Sydam",
+      "department": "DEPT : CHEMISTRY",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Manuri Brahmayya",
+      "department": "DEPT : CHEMISTRY",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Archana Kushwaha",
+      "department": "DEPT : CHEMISTRY",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Haritha Kiranmai Meduri",
+      "department": "DEPT : CHEMISTRY",
+      "designation": "Assistant Professor",
+      "qualification": "Not specified"
+    },
+    {
+      "name": "Dr. A. Mallika",
+      "department": "DEPT : CIVIL",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. BDV Chandra Mohan Rao",
+      "department": "DEPT : CIVIL",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. K. Ramujee",
+      "department": "DEPT : CIVIL",
+      "designation": "Professor & HOD",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. B. Narendra Kumar",
+      "department": "DEPT : CIVIL",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. A. Ramesh",
+      "department": "DEPT : CIVIL",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. K. Ravi Kumar",
+      "department": "DEPT : CIVIL",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Kadali Srinivas",
+      "department": "DEPT : CIVIL",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. K. Suresh",
+      "department": "DEPT : CIVIL",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. G. Lalitha",
+      "department": "DEPT : CIVIL",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mr. PVS Gopi Raghunadh",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. T. Naga Teja",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. P. Arti Sudam",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mr. K. Veerendra Gopi",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. Sangeetha S.",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mrs. V. Ramya Krishna",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mrs. A. Jyothirmai",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. J.Y.V. Shiva Bhushan",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mrs. R. Harika",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. S. Rakesh",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Harinder Devavath",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. B. Murali Krishna",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. K. Sai Sahitya",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mr. G. Sambasiva Rao",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mrs. J. Soujanya",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. P. Rama Rao",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. Seenu P Z",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. R. Gokulan",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Kasinikota Pardhasaradhi",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mr. Lohit H",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. T. Srinivasa Rao",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mrs. T. Bhavani Chowdary",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Poonam Shekhawat",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mr. S. H. Vamsi Krishna",
+      "department": "DEPT : CIVIL",
+      "designation": "Assistant Professor",
+      "qualification": "Not specified"
+    },
+    {
+      "name": "Dr. Sandhya N",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Prof & RDC Head",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Sagar Yeruva",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assoc. Prof & HOD",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Rayudu Manjula Sri",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Kousar Nikhath Alpuri",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Malige Gangappa",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Bandari Jalender",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Awari Harshavardhan",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Kakumani Aruna Kumari",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Gujjeti Nagaraju",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Apparasu Adithya Kashyap",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mannepalli Venkata Krishna Rao",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. Dasari Sri Laxmi",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Kunka Bheemalingappa",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Challabotla Naveen Reddy",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Chalumuru Suresh",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Sayeedakhanum Pathan",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Kancharagunta Kishan Babu",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Bhupesh Deka",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Preety Singh",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Korukonda Naga Durga Saile",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Kakumanu Sreenivasa Rao",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Jakkula Sravanthi",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Rajulapati Sudha",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Rudra Yamini Rani",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Shaik Mabasha",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. Kalidindi Archana",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Yavanamandha Prasanthi",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Etikala Gurumohan Rao",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Vorem Kishore",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Venkannagari Manjula",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Manthena Swapna Kumari",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Ravula Jyothsna",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Yellanki Veda Sahiti",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Muthyala Mehar Sharanya",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Kothakonda Akhila Tejaswini",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Chilukuri Divya",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Kapu Prathyusha",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Bappanna Bhagyashree",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. Sayanti Chatterjee",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Koneru Anitha",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Uppara Veeresh",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Nelluru Anjaneyulu",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. Koganti Nishanth",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Professor of Practice",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Jasthi Kiran",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Marlapudi Shara Lydia",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Kanchari Bavajigari Anusha",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Manjusha Nambiar",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dondeti Sowmya Chowdary",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Potnuru Lakshmi Prasanna",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Kondepati Anusha",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Pandula Sujatha",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Kolli Veena",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "N. Jaya Sri",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Vaidehi Ramadugu",
+      "department": "DEPT: CSE AIML & IOT",
+      "designation": "Assistant Professor",
+      "qualification": "Masters"
+    },
+    {
+      "name": "Dr. T. Sunil Kumar",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Professor & HOD",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. G. Ramesh Chandra",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Professor (CSE-I/C)",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. M. Raja Sekar",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. P. Neelakantan",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. B.D.V.C. Mohan Rao",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. P. Subhash",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. R. Vasavi",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. K. Srinivas",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. N. Pushpa Latha",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. GLN Jayaprada",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. R. Kranthi Kumar",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. B. Ganesh Babu",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. P. Tejaswi",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. S. Swathi",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Kriti Ohri",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. P. Jyothi",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mr. P. Balakesava Reddy",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech (Ph.D)"
+    },
+    {
+      "name": "Mr. Anand Kumar Sharma",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech (Ph.D)"
+    },
+    {
+      "name": "Mrs. Y. Manasa",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech (Ph.D)"
+    },
+    {
+      "name": "Dr. T. Preethi",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. N. Sunanda",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mrs. A. Pravallika",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech (Ph.D)"
+    },
+    {
+      "name": "Mrs. G. Ashalatha",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech (Ph.D)"
+    },
+    {
+      "name": "Mrs. E. Lalitha",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. G. Sathar",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech (Ph.D)"
+    },
+    {
+      "name": "Mr. Manmath Nath Das",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech (Ph.D)"
+    },
+    {
+      "name": "Dr. Ch. Anil Kumar",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Ms. Issac Neha Margaret",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech (Ph.D)"
+    },
+    {
+      "name": "Mr. K. Sai Bhargav",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech (Ph.D)"
+    },
+    {
+      "name": "Mrs. G. Mounika",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech (Ph.D)"
+    },
+    {
+      "name": "Mrs. P. Devika",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech (Ph.D)"
+    },
+    {
+      "name": "Mr. B. Sangameshwar",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech (Ph.D)"
+    },
+    {
+      "name": "Dr. S. Krishnapriya",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Ch. Akhil",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. A. Pramod Kumar",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. D. Manju",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Spoorthy G",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mrs. Sreevidya",
+      "department": "Department of Artificial Intelligence & Data Science, CSE-Cyber Security, Data Science",
+      "designation": "Assistant Profes",
+      "qualification": "M.TECH"
+    },
+    {
+      "name": "Dr. Vadlana Baby",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Associate Professor & HOD",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Cherukuri Kiran Mai",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Sabbineni Nagini",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Bolneni Venkata Kiranmayee",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Gollapudi Rameshchandra",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Puligundla Neelakantan",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Myneni Madhu Bala",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Malige Gangappa",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Pasupuleti Venkata Siva Kumar",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Annapu Reddy Brahmananda Reddy",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Deepak Sukheja",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Thayyaba Khatoon MD",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Anjusha Nitin Pimpalshende",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Motupalli Ravi Kanth",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Nekkanti Venkata Sailaja",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Desapandya Naga Vasundara",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Vasavi Ravuri",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Redrowthu Vijaya Saraswathi",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Kanakala Srinivas",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mrs. Alli Madhavi",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. Pathi Radhika",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech (Ph.D)"
+    },
+    {
+      "name": "Mr. Thuraka Gnana Prakash",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech (Ph.D)"
+    },
+    {
+      "name": "Mrs. Somavarapu Jahnavi",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech (Ph.D)"
+    },
+    {
+      "name": "Mrs. Neerukonda Lakshmi Kalyani",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech (Ph.D)"
+    },
+    {
+      "name": "Dr. N. Sandeep Chaitanya",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech (Ph.D)"
+    },
+    {
+      "name": "Mrs. Nyaramneni Sarika",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech (Ph.D)"
+    },
+    {
+      "name": "Dr. Potluri Tejaswi",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Pokuri Bharath Kumar Chowdary",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mr. Peddarapu Ramakrishna Chowdary",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech (Ph.D)"
+    },
+    {
+      "name": "Dr. Kunka Bheemalingappa",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mrs. Lingineni Indira",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. Chalumuru Suresh",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Kriti Ohri",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. Venkata Ramana Kaneti",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mrs. K. Jhansi Lakshmi Bai",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. Mannepalli Venkata Krishna Rao",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. Tummala Nagarjuna",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mrs. Siripurapu Nyemeesha",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mrs. Putti Jyothi",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mrs. Bhagya Rekha Konkepudi",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Shaik Abdul Hameed",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mrs. Pabba Prasanna",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mrs. Gopisetti Laxmi Deepthi",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mrs. Kodali Hari Priya",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mrs. Sadula Sudeshna",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. Pinapati Sudheer Benarji",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. Indurthi Ravindra Kumar",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. Manchikatla Srikanth",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. Perunalla Praveen",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mrs. Chappidi Sandhya Rani",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mrs. Vijaya Bhasakara Reddy V",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech (Ph.D)"
+    },
+    {
+      "name": "Mr. Ch. Suresh Kumar Raju",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech (Ph.D)"
+    },
+    {
+      "name": "Mr. P. Rajesh",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Sk. Saddam Hussain",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech (Ph.D)"
+    },
+    {
+      "name": "Mr. M. Ram Babu",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mrs. V. Dhanalakshmi",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mrs. A. Katyayani",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. Palakurthi Ramesh",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. Karumuri Sri Rama Murthy",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mr. Thirupathi Nanuvala",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. Karnam Akhil",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Ms. Sampath Alankritha",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mrs. Swathi Kadari",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "Not specified"
+    },
+    {
+      "name": "Mr. N. Praveen Kumar",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "Not specified"
+    },
+    {
+      "name": "Mrs. Abbi Sandhya Rani",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "Not specified"
+    },
+    {
+      "name": "Mrs. Shetkar Ambika",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "Not specified"
+    },
+    {
+      "name": "Mr. Somanadha Satyadev Bulusu",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "Not specified"
+    },
+    {
+      "name": "Mrs. Srijita Majumder",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "Not specified"
+    },
+    {
+      "name": "Mrs. G. Dhruva Manasa",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. A. V. S. Swetha",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "Not specified"
+    },
+    {
+      "name": "Inayath Sana",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Malle Sandeep",
+      "department": "DEPT: CSE & CSBS",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. C. D. Naidu",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Professor & Advisor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Y. Padma Sai",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. L. Padma Sree",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Professor & HOD",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. S. Rajendra Prasad",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Professor & Dean Administration",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Ranjan Kumar",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. V. Krishna Sree",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Shaik Khadar Sharif",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Associate Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. N. Dhana Lakshmi",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. A. Ramesh Kumar",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Y. Chalapathi Rao",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. P. Kishore",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. L. V. Rajani Kumari",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. K. Archana Bhange",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. V. Priyanka",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. K. Kalyan Srinivas",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. V. Sagar Reddy",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. G. Sahitya",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. J. L. V. Ramana Kumari",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Helan Satish",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. K. Jyostna",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. D. Kanthi Sudha",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. L. Dharma Teja",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. G. Shanthi",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. G. Vijaya Kumar",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "V. Naveen Kumar",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. D. Ramesh Reddy",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Haritha Mittapally",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "K. Deepthi",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. B. B. Shabarinath",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Ch. Ganesh",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "K. Sangeetha",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. Pradeep Kumar",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Santosh Kumar Choudhary",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. D. Santhosh Kumar",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Ch. Raja Kumari",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "S. Naga Leela",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "P. Suresh Babu",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "G. Ramya",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "M. Rama Devi",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "J. V. A. Bala Krishna",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "C. Kaushik",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "V. Alekhya",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "R. Ravi Kumar",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. Srinivas Talasila",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. N. Neelima",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "M. Bhagya Lakshmi",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. E. Vijaya Babu",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Sk. Shoukat Vali",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Sri Rama Y",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Sireesha Amaraneni",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Chiranjeevi Thokala",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mrs. Katta Mounika",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. V. Pradeep Kumar",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mrs. N. Syamala",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. G. Kiran Kumar",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mrs. S. Baswarani",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Kamepalli Dharani",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "M. Rama Rao",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Ms. Shruti Munde",
+      "department": "DEPT: ECE & ECE VLSI",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. Poonam Upadhyay",
+      "department": "DEPT : EEE",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. K. Anuradha",
+      "department": "DEPT : EEE",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. J. Viswanatha Rao",
+      "department": "DEPT : EEE",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. N. Krishna Kumari",
+      "department": "DEPT : EEE",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. V. Ramesh Babu",
+      "department": "DEPT : EEE",
+      "designation": "Professor & HOD",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Y. Venu",
+      "department": "DEPT : EEE",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. G. Sasi Kumar",
+      "department": "DEPT : EEE",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. B. Neelakanteshwar Rao",
+      "department": "DEPT : EEE",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. J. Srinivasa Rao",
+      "department": "DEPT : EEE",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. J. Bhavani",
+      "department": "DEPT : EEE",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. K. Veeresham",
+      "department": "DEPT : EEE",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. D. Ravi Kumar",
+      "department": "DEPT : EEE",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. E. Shiva Prasad",
+      "department": "DEPT : EEE",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. G. Radhika",
+      "department": "DEPT : EEE",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mr. P. Ramesh",
+      "department": "DEPT : EEE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mrs. M. Nagajyothi",
+      "department": "DEPT : EEE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. G. C. Prabhakar",
+      "department": "DEPT : EEE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. D. S. G. Krishna",
+      "department": "DEPT : EEE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mrs. S. Poornima",
+      "department": "DEPT : EEE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. R. Geshma Kumari",
+      "department": "DEPT : EEE",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. O. Sobhana",
+      "department": "DEPT : EEE",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mr. N. Amarnadh Reddy",
+      "department": "DEPT : EEE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Ms. I. Neelima",
+      "department": "DEPT : EEE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. B. Devulal",
+      "department": "DEPT : EEE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Ms. K. Sravani",
+      "department": "DEPT : EEE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. G. Lakshminarayana",
+      "department": "DEPT : EEE",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Rashmi Kapoor",
+      "department": "DEPT : EEE",
+      "designation": "Senior Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. A. Giri Prasad",
+      "department": "DEPT : EEE",
+      "designation": "Senior Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. P. Nagabushanam",
+      "department": "DEPT : EEE",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mr. K. Srikanth",
+      "department": "DEPT : EEE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. K. Subhash Babu",
+      "department": "DEPT : EEE",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Ms. G. Anjali Devi",
+      "department": "DEPT : EEE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Ms. B. Naga Swetha",
+      "department": "DEPT : EEE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mrs. B. Madhuri",
+      "department": "DEPT : EEE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. A. Ravi Kumar",
+      "department": "DEPT : EEE",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Ms. B. Harshini",
+      "department": "DEPT : EEE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. A. Anil Kumar",
+      "department": "DEPT : EEE",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. N. Nageswara Reddy",
+      "department": "DEPT : EEE",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Ch. Rami Reddy",
+      "department": "DEPT : EEE",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Manjula Sri",
+      "department": "DEPT: EIE",
+      "designation": "Professor",
+      "qualification": "Ph.D"
+    },
+    {
+      "name": "Dr. M. Sreedhar",
+      "department": "DEPT: EIE",
+      "designation": "Professor",
+      "qualification": "Ph.D"
+    },
+    {
+      "name": "Dr. K. Vidyasagar",
+      "department": "DEPT: EIE",
+      "designation": "Professor",
+      "qualification": "Ph.D"
+    },
+    {
+      "name": "Dr. S. Pranavanand",
+      "department": "DEPT: EIE",
+      "designation": "Associate Professor & HOD",
+      "qualification": "Ph.D"
+    },
+    {
+      "name": "Dr. K. Sudha Rani",
+      "department": "DEPT: EIE",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D"
+    },
+    {
+      "name": "Dr. Harikrishna Mulam",
+      "department": "DEPT: EIE",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D"
+    },
+    {
+      "name": "Dr. Anita Kulkarni",
+      "department": "DEPT: EIE",
+      "designation": "Associate Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. V. Nageshwar",
+      "department": "DEPT: EIE",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D"
+    },
+    {
+      "name": "Dr. C. Kiran",
+      "department": "DEPT: EIE",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D"
+    },
+    {
+      "name": "Ms. D. V. Shobhana",
+      "department": "DEPT: EIE",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "M.E"
+    },
+    {
+      "name": "Priscilla",
+      "department": "DEPT: EIE",
+      "designation": "",
+      "qualification": "Not specified"
+    },
+    {
+      "name": "Mr. C. V. Rambabu",
+      "department": "DEPT: EIE",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. K. Vijay Chandra",
+      "department": "DEPT: EIE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. A. Adithya Kashyap",
+      "department": "DEPT: EIE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. S. Nagarjuna Chary",
+      "department": "DEPT: EIE",
+      "designation": "Assistant Professor",
+      "qualification": "M.E"
+    },
+    {
+      "name": "Dr. Vandana Samanthula",
+      "department": "DEPT: EIE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. G. Vamsi Krishna",
+      "department": "DEPT: EIE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. S. S. Bharati Sagi",
+      "department": "DEPT: EIE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. Naregalkar Akshay",
+      "department": "DEPT: EIE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. P. V. Gopi Kumar",
+      "department": "DEPT: EIE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. J. Jyothirmai",
+      "department": "DEPT: EIE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. D. Srilaxmi",
+      "department": "DEPT: EIE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. P. Sampurna Lakshmi",
+      "department": "DEPT: EIE",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D"
+    },
+    {
+      "name": "Ms. D. Swetha",
+      "department": "DEPT: EIE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. S. Bhargav",
+      "department": "DEPT: EIE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. B. Rajashekara",
+      "department": "DEPT: EIE",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D"
+    },
+    {
+      "name": "Reddy",
+      "department": "DEPT: EIE",
+      "designation": "",
+      "qualification": "Not specified"
+    },
+    {
+      "name": "Dr. S. Senthilkumar",
+      "department": "DEPT: EIE",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D"
+    },
+    {
+      "name": "Mr. Ch. Venkanna",
+      "department": "DEPT: EIE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr. Haroon Rasheed",
+      "department": "DEPT: EIE",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. A. Srinivasulu",
+      "department": "DEPT: EIE",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D"
+    },
+    {
+      "name": "Dr. M. N. Reddy",
+      "department": "DEPT: EIE",
+      "designation": "Adjunct Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. Kanchana Sundaram",
+      "department": "DEPT: English",
+      "designation": "Assoc. Prof. & HoD",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. D. Sudha Rani",
+      "department": "DEPT: English",
+      "designation": "Assoc. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. K. Neelaveni",
+      "department": "DEPT: English",
+      "designation": "Assoc. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Prathiva Rani Saha",
+      "department": "DEPT: English",
+      "designation": "Asst. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Rachel Irdayaraj",
+      "department": "DEPT: English",
+      "designation": "Asst. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Khamar Jahan",
+      "department": "DEPT: English",
+      "designation": "Asst. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. K Ujjwala",
+      "department": "DEPT: English",
+      "designation": "Asst. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Y.V. Sudha Devi",
+      "department": "DEPT: English",
+      "designation": "Asst. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Waheed Shafia",
+      "department": "DEPT: English",
+      "designation": "Asst. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. J. Lalitha Sridevi",
+      "department": "DEPT: English",
+      "designation": "Asst. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Somwrita Ghosh",
+      "department": "DEPT: English",
+      "designation": "Asst. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Ruchika Rai",
+      "department": "DEPT: English",
+      "designation": "Asst. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Ayesha Salma",
+      "department": "DEPT: English",
+      "designation": "Asst. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Ms. D Divya",
+      "department": "DEPT: English",
+      "designation": "Asst. Prof.",
+      "qualification": "M.A. (Pursuing Ph.D.)"
+    },
+    {
+      "name": "Mr. K Ashok",
+      "department": "DEPT: English",
+      "designation": "Asst. Prof.",
+      "qualification": "M.Phil. (Pursuing Ph.D.)"
+    },
+    {
+      "name": "Ms. R Sreepriya",
+      "department": "DEPT: English",
+      "designation": "Asst. Prof.",
+      "qualification": "M.A. (Pursuing Ph.D.)"
+    },
+    {
+      "name": "Dr.N Mangathayaru",
+      "department": "Dept: Information Technology",
+      "designation": "Professor & HOD",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr.G Suresh Reddy",
+      "department": "Dept: Information Technology",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr.G Madhu",
+      "department": "Dept: Information Technology",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr.D.Srinivasa Rao",
+      "department": "Dept: Information Technology",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr.B.Mathura Bai",
+      "department": "Dept: Information Technology",
+      "designation": "Associate Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr.B.Venkata Seshu",
+      "department": "Dept: Information Technology",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Kumari",
+      "department": "Dept: Information Technology",
+      "designation": "",
+      "qualification": "Not specified"
+    },
+    {
+      "name": "Dr.Gunupudi Rajesh",
+      "department": "Dept: Information Technology",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Kumar",
+      "department": "Dept: Information Technology",
+      "designation": "",
+      "qualification": "Not specified"
+    },
+    {
+      "name": "Dr.V.Radhakrishna",
+      "department": "Dept: Information Technology",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr.G Naga Chandrika",
+      "department": "Dept: Information Technology",
+      "designation": "Sr.Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mrs.Renuka Kondabala",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr.Ravi Tene",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr.M.Koteswara Rao",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech."
+    },
+    {
+      "name": "Mrs.A.Revathi",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr.D Kalyani",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr.Vemulapalli Saritha",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D"
+    },
+    {
+      "name": "Mrs.M.Susmitha",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr.S Murali Mohan",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr.I. Pavan Kumar",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr.Srivani B",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mrs.S.Renu Deepti",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr A.Sreenivasa Rao",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mrs.Ch.Rohini",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr.Dakshayani Himabindu",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr.Keesara Sravanthi",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mrs Raswitha Bandi",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr V. Sravan Kiran",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Kamala Challa",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "K. Radhika",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Manoj Kumar Vemula",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "M.Radha",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mr.S.KumaraSwamy",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mrs. S. Anoosha",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Soujanya Ambala",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "V. Anu Ragavi",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Mrs. Jyotsnarani",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Tripathy",
+      "department": "Dept: Information Technology",
+      "designation": "",
+      "qualification": "Not specified"
+    },
+    {
+      "name": "P.Veeranjaneyulu",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Donthamsetti Veera",
+      "department": "Dept: Information Technology",
+      "designation": "Assistant Professor",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Bhadra Rao",
+      "department": "Dept: Information Technology",
+      "designation": "",
+      "qualification": "Not specified"
+    },
+    {
+      "name": "Dr.P.Aparna",
+      "department": "Dept: Maths and Management",
+      "designation": "Associate Professor & Head",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr.N.Pothanna",
+      "department": "Dept: Maths and Management",
+      "designation": "Associate Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr.J.Srinivas",
+      "department": "Dept: Maths and Management",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr.G.Jithender Reddy",
+      "department": "Dept: Maths and Management",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. D. Swarnakar",
+      "department": "Dept: Maths and Management",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr.G.Sireesha",
+      "department": "Dept: Maths and Management",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr.V.Ganesh kumar",
+      "department": "Dept: Maths and Management",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. T. Kusuma",
+      "department": "Dept: Maths and Management",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr R. Srilatha",
+      "department": "Dept: Maths and Management",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. P. Raja Shekar",
+      "department": "Dept: Maths and Management",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. T. Siva Nageswara",
+      "department": "Dept: Maths and Management",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Rao",
+      "department": "Dept: Maths and Management",
+      "designation": "",
+      "qualification": "Not specified"
+    },
+    {
+      "name": "Dr.M Pavan Kumar Reddy",
+      "department": "Dept: Maths and Management",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Ch Shashi kumar",
+      "department": "Dept: Maths and Management",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. B. Naga Malleswari",
+      "department": "Dept: Maths and Management",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. G Swapna",
+      "department": "Dept: Maths and Management",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr.B.Prathyusha",
+      "department": "Dept: Maths and Management",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr.N.Aruna Kumari",
+      "department": "Dept: Maths and Management",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Mr. K.V.L.N. Pavan",
+      "department": "Dept: Maths and Management",
+      "designation": "Assistant Professor",
+      "qualification": "M.Phil"
+    },
+    {
+      "name": "Kumar",
+      "department": "Dept: Maths and Management",
+      "designation": "",
+      "qualification": "Not specified"
+    },
+    {
+      "name": "Mr. K.Anil Kumar",
+      "department": "Dept: Maths and Management",
+      "designation": "Assistant Professor",
+      "qualification": "M.Phil"
+    },
+    {
+      "name": "Ms. CH V L L Kusuma",
+      "department": "Dept: Maths and Management",
+      "designation": "Assistant Professor",
+      "qualification": "M.B.A"
+    },
+    {
+      "name": "Kumari",
+      "department": "Dept: Maths and Management",
+      "designation": "",
+      "qualification": "Not specified"
+    },
+    {
+      "name": "B. Sri Pavani",
+      "department": "Dept: Maths and Management",
+      "designation": "Assistant Professor",
+      "qualification": "M.B.A"
+    },
+    {
+      "name": "Dr Kilaru Madhavi",
+      "department": "Dept: Maths and Management",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D"
+    },
+    {
+      "name": "Dr. R Arpitha",
+      "department": "Dept: Maths and Management",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D"
+    },
+    {
+      "name": "Dr. Vivekananda Rayanki",
+      "department": "Dept: Maths and Management",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D"
+    },
+    {
+      "name": "Dr.G.Gangadhar",
+      "department": "Dept: Maths and Management",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D"
+    },
+    {
+      "name": "V. Swathi",
+      "department": "Dept: Maths and Management",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D"
+    },
+    {
+      "name": "Dr. B. V. R. Ravi Kumar",
+      "department": "Dept: Mechanical",
+      "designation": "Professor & HOD",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. B. Chennakesava Rao",
+      "department": "Dept: Mechanical",
+      "designation": "Principal",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. P. S. Prasad",
+      "department": "Dept: Mechanical",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. G. Srinivasa Gupta",
+      "department": "Dept: Mechanical",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. M. V. R. Durga",
+      "department": "Dept: Mechanical",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Prasad",
+      "department": "Dept: Mechanical",
+      "designation": "",
+      "qualification": "Not specified"
+    },
+    {
+      "name": "Dr. G. Raghu Babu",
+      "department": "Dept: Mechanical",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. K. Balashowry",
+      "department": "Dept: Mechanical",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. E. V. Ramana",
+      "department": "Dept: Mechanical",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Y. Shivraj Narayan",
+      "department": "Dept: Mechanical",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. B. Satyanarayana",
+      "department": "Dept: Mechanical",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. K. Ajay Kumar",
+      "department": "Dept: Mechanical",
+      "designation": "Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Sri. S. R. Somayajulu",
+      "department": "Dept: Mechanical",
+      "designation": "Assoc. Prof.",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. N. Kiran Kumar",
+      "department": "Dept: Mechanical",
+      "designation": "Assoc. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. K. Jaya Prakash",
+      "department": "Dept: Mechanical",
+      "designation": "Sr. Asst. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Jayashri Nair",
+      "department": "Dept: Mechanical",
+      "designation": "Sr. Asst. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. K. Aruna Prabha",
+      "department": "Dept: Mechanical",
+      "designation": "Sr. Asst. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. M. S. Srinivasa Rao",
+      "department": "Dept: Mechanical",
+      "designation": "Sr. Asst. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. D. Sarath Chandra",
+      "department": "Dept: Mechanical",
+      "designation": "Asst. Prof.",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. V. V. Durga Sahithi",
+      "department": "Dept: Mechanical",
+      "designation": "Asst. Prof.",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. N. Srilatha",
+      "department": "Dept: Mechanical",
+      "designation": "Asst. Prof.",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. K. Krishna Murthy",
+      "department": "Dept: Mechanical",
+      "designation": "Asst. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Sri. P. Prasad Kumar",
+      "department": "Dept: Mechanical",
+      "designation": "Asst. Prof.",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. S. Bhanu Murthy",
+      "department": "Dept: Mechanical",
+      "designation": "Asst. Prof.",
+      "qualification": "M.E"
+    },
+    {
+      "name": "Dr. L. Sandeep Raj",
+      "department": "Dept: Mechanical",
+      "designation": "Asst. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. H. Naresh",
+      "department": "Dept: Mechanical",
+      "designation": "Asst. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Sri. P. Narendra",
+      "department": "Dept: Mechanical",
+      "designation": "Asst. Prof.",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Sri. S. N. S. Sai Hari",
+      "department": "Dept: Mechanical",
+      "designation": "Asst. Prof.",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. CH. Priya Darsini",
+      "department": "Dept: Mechanical",
+      "designation": "Asst. Prof.",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Smt. S. Swetha",
+      "department": "Dept: Mechanical",
+      "designation": "Asst. Prof.",
+      "qualification": "M.E"
+    },
+    {
+      "name": "Dr. V. Siva Rama",
+      "department": "Dept: Mechanical",
+      "designation": "Asst. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Krishna",
+      "department": "Dept: Mechanical",
+      "designation": "",
+      "qualification": "Not specified"
+    },
+    {
+      "name": "Sri. T. Malyadri",
+      "department": "Dept: Mechanical",
+      "designation": "Asst. Prof.",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. CH. Naveen Reddy",
+      "department": "Dept: Mechanical",
+      "designation": "Asst. Prof.",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Smt. CH. Rajeswari",
+      "department": "Dept: Mechanical",
+      "designation": "Asst. Prof.",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. S.V. Satya Prasad",
+      "department": "Dept: Mechanical",
+      "designation": "Asst. Prof.",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. G.V. Subhash",
+      "department": "Dept: Mechanical",
+      "designation": "Asst. Prof.",
+      "qualification": "M.Tech"
+    },
+    {
+      "name": "Dr. N. Shiva Kumar",
+      "department": "Dept: Mechanical",
+      "designation": "Asst. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Sujith Bobba",
+      "department": "Dept: Mechanical",
+      "designation": "Asst. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. A. Syam Prasad",
+      "department": "Dept: Mechanical",
+      "designation": "Asst. Prof.",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Ashok Bhogi",
+      "department": "Dept: Physics",
+      "designation": "Sr. Assistant Professor, HoD",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. L. Srinivasa Rao",
+      "department": "Dept: Physics",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. T. Rajani",
+      "department": "Dept: Physics",
+      "designation": "Sr. Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. P. Pavan Kumar",
+      "department": "Dept: Physics",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. K. S. Rudramamba",
+      "department": "Dept: Physics",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. C. Thirmal",
+      "department": "Dept: Physics",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. M. Sumithra",
+      "department": "Dept: Physics",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. N. Suresh Kumar",
+      "department": "Dept: Physics",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. G. Suresh",
+      "department": "Dept: Physics",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. N. V. Suresh Kumar",
+      "department": "Dept: Physics",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. G. Venkateswara Rao",
+      "department": "Dept: Physics",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Venkata Sai Dasari",
+      "department": "Dept: Physics",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. B. Srinivas",
+      "department": "Dept: Physics",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. M. Ramesh",
+      "department": "Dept: Physics",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. D. N. Prasad",
+      "department": "Dept: Physics",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    },
+    {
+      "name": "Dr. Nellutla Jahangeer",
+      "department": "Dept: Physics",
+      "designation": "Assistant Professor",
+      "qualification": "Ph.D."
+    }
+  ]
+}

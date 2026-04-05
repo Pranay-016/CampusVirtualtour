@@ -1,0 +1,155 @@
+{
+  "institute_overview": {
+    "name": "Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering and Technology",
+    "acronym": "VNRVJIET",
+    "established": 1995,
+    "type": "Private, Autonomous",
+    "affiliation": "Jawaharlal Nehru Technological University Hyderabad (JNTUH)",
+    "approvals": ["AICTE", "UGC"],
+    "campus_size": "21 acres",
+    "location": {
+      "address": "Vignana Jyothi Nagar, Bachupally, Nizampet (S.O), Hyderabad",
+      "district": "Medchal-Malkajgiri",
+      "state": "Telangana",
+      "pincode": "500090",
+      "country": "India"
+    }
+  },
+  "accreditations_and_rankings": {
+    "naac_grade": "A++",
+    "nba_accreditation": "Accredited for multiple UG programs (CE, EEE, ME, ECE, CSE, EIE, IT, AE)",
+    "nirf_ranking": {
+      "2024": "151-200 Band",
+      "2025": "151-200 Band"
+    },
+    "certifications": ["ISO 9001:2015", "ISO 21001:2018"]
+  },
+  "academic_programs": {
+    "btech_undergraduate": {
+      "total_intake": 1800,
+      "admission_criteria": "10+2 with PCM and valid TS EAMCET score",
+      "specializations": [
+        "Computer Science and Engineering (CSE)",
+        "CSE - Artificial Intelligence and Machine Learning (AIML)",
+        "CSE - Data Science",
+        "CSE - Cyber Security",
+        "CSE - Internet of Things (IoT)",
+        "Computer Science and Business System (CSBS)",
+        "Artificial Intelligence and Data Science (AIDS)",
+        "Information Technology (IT)",
+        "Electronics and Communication Engineering (ECE)",
+        "Electrical and Electronics Engineering (EEE)",
+        "Electronics and Instrumentation Engineering (EIE)",
+        "Mechanical Engineering (ME)",
+        "Civil Engineering (CE)",
+        "Automobile Engineering (AE)"
+      ]
+    },
+    "mtech_postgraduate": {
+      "total_intake": 156,
+      "admission_criteria": "B.Tech/B.E degree with valid GATE or TS PGECET score",
+      "specializations": [
+        "Software Engineering",
+        "Computer Networks & Information Security",
+        "Computer Science and Engineering",
+        "VLSI System Design",
+        "Embedded Systems",
+        "Electronics & Instrumentation",
+        "Power Systems",
+        "Power Electronics",
+        "Advanced Manufacturing Systems",
+        "CAD/CAM",
+        "Geotechnical Engineering",
+        "Highway Engineering",
+        "Structural Engineering"
+      ]
+    }
+  },
+  "placement_statistics": {
+    "year_2025": {
+      "highest_package": "92 LPA",
+      "average_package": "7.49 LPA",
+      "total_recruiters": "130+",
+      "total_offers": "2058+"
+    },
+    "year_2024": {
+      "highest_package": "51 LPA",
+      "average_package": "7.09 LPA",
+      "placement_percentage": "89.06% (Overall)",
+      "total_recruiters": 125,
+      "total_offers": 1408
+    },
+    "top_recruiters": [
+      "Microsoft", "Amazon", "TCS", "Accenture", 
+      "JP Morgan", "Google", "Oracle", "Deloitte", "HSBC"
+    ]
+  },
+  "infrastructure_and_facilities": {
+    "library": {
+      "volumes": 73212,
+      "titles": 15444,
+      "digital_resources": "Dspace Digital Library Package (2500+ e-books), Knimbus e-Library for remote access, IEEE, SpringerLink, Science Direct",
+      "operating_hours": "8:00 AM to 8:00 PM"
+    },
+    "hostels": {
+      "boys_hostel": "Accommodation for ~1116 students; double and triple sharing.",
+      "girls_hostel": "Accommodation for ~440 students; single, double, and triple sharing."
+    },
+    "sports_complex": {
+      "name": "Kode Venkatadri Chowdary Sports Complex",
+      "area": "2,947 square meters",
+      "facilities": [
+        "Badminton courts (Wooden floor)",
+        "Basketball courts",
+        "Cricket field & practice nets",
+        "Football and Hockey fields",
+        "Tennis courts (Synthetic)",
+        "Volleyball & Throwball courts",
+        "Athletic track",
+        "Modern Gymnasium & Yoga Centre",
+        "Billiards & Snooker"
+      ]
+    },
+    "auditoriums": [
+      "Open-air auditorium (Capacity: 10,000)",
+      "KS Auditorium (A/C)",
+      "Dr. A.P.J. Abdul Kalam Seminar Hall",
+      "Amphitheatre"
+    ],
+    "other_amenities": [
+      "Wi-Fi enabled campus",
+      "Cafeteria and Mess",
+      "Medical Centre with full-time doctor/nurse",
+      "Transport Facility (College buses)",
+      "Axis Bank ATM",
+      "Convenience store"
+    ]
+  },
+  "student_life_and_clubs": {
+    "cultural_and_literary_clubs": [
+      "Stentorian (English Literary Club)",
+      "Crescendo (Music Club)",
+      "Livewire (Dance Club)",
+      "Nritya Tarang (Classical Dance Club)",
+      "Scintillate (Photography Club)",
+      "VJ Teatro (Short Film Club)",
+      "VJ Sahithi Vanam (Telugu Literary Club)",
+      "Dramatics Club"
+    ],
+    "social_responsibility_clubs": [
+      "NSS Units",
+      "VNRSF",
+      "N-Army",
+      "Art of Living Club"
+    ],
+    "professional_chapters": [
+      "ACM",
+      "Student Council"
+    ]
+  },
+  "contact_information": {
+    "website": "www.vnrvjiet.ac.in",
+    "email": "postbox@vnrvjiet.ac.in",
+    "phone": "9391008138"
+  }
+}

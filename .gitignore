@@ -1,0 +1,5 @@
+server/.env
+server/node_modules/
+server/__pycache__/
+server/chroma_db/
+*.pyc

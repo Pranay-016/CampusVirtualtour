@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity Web Player | Archive</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+      :root {
+        --primary-color: #2563EB;
+        --primary-hover: #1D4ED8;
+        --bg-dark: #0F172A;
+        --bg-glass: rgba(255, 255, 255, 0.85);
+      }
+      
+      * {
+        font-family: 'Poppins', sans-serif;
+      }
+
+      /* Global & Unity Overrides */
+      body { margin: 0; padding: 0; overflow: hidden; background: #000; }
+      #unity-container { width: 100vw; height: 100vh; position: absolute; top: 0; left: 0; z-index: 0; }
+      #unity-canvas { width: 100%; height: 100%; display: block; }
+      #unity-footer { display: none; /* Hide default unity footer for a cleaner look */ }
+      #unity-loading-bar { display: none !important; /* Replaced by our custom landing page loader */ }
+      
+      /* Modern UI Overlay */
+      #ui-layer { position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none; z-index: 10; display: flex; flex-direction: column; justify-content: space-between; }
+      
+      @keyframes float {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(-12px); }
+        100% { transform: translateY(0px); }
+      }
+
+      /* Landing Page Styles */
+      #landing-page { position: absolute; top: 0; left: 0; width: 100vw; height: 100vh; background: #000; z-index: 50; display: flex; flex-direction: column; justify-content: center; align-items: center; color: #ffffff; transition: opacity 0.8s cubic-bezier(0.25, 1, 0.5, 1), visibility 0.8s; pointer-events: auto; overflow: hidden; }
+      #landing-video { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: -1; opacity: 0.65; pointer-events: none; }
+      .landing-content { background: linear-gradient(135deg, rgba(15, 23, 42, 0) 0%, rgba(30, 27, 75, 0.85) 100%); backdrop-filter: blur(25px); -webkit-backdrop-filter: blur(25px); border: 1px solid rgba(255, 255, 255, 0.15); padding: 50px 40px; border-radius: 24px; text-align: center; max-width: 600px; box-shadow: 0 24px 40px rgba(0,0,0,0.6); margin: 20px; animation: float 6s ease-in-out infinite; }
+      .landing-content img { height: 85px; margin-bottom: 25px; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.2)); }
+      .landing-content h1 { font-size: 2.4rem; font-weight: 700; margin: 0 0 16px 0; letter-spacing: -0.5px; color: #FBBF24; }
+      .landing-content p { font-size: 1.1rem; line-height: 1.6; color: #e2e8f0; margin-bottom: 35px; font-weight: 400; }
+      #start-tour-btn { background: var(--primary-color); color: white; border: none; padding: 16px 40px; font-size: 1.15rem; font-weight: 600; border-radius: 30px; cursor: pointer; transition: all 0.3s ease; box-shadow: 0 8px 20px rgba(37,99,235,0.3); }
+      #start-tour-btn:hover:not(:disabled) { transform: translateY(-3px); box-shadow: 0 12px 25px rgba(37,99,235,0.4); background: var(--primary-hover); }
+      #start-tour-btn:disabled { background: rgba(255,255,255,0.15); color: rgba(255,255,255,0.6); cursor: not-allowed; box-shadow: none; }
+
+      /* Header */
+      header { background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(15px); padding: 15px 30px; display: flex; justify-content: space-between; align-items: center; pointer-events: auto; box-shadow: 0 4px 20px rgba(0,0,0,0.15); border-bottom: 1px solid rgba(255,255,255,0.1); }
+      header .brand { display: flex; align-items: center; gap: 15px; }
+      header .brand img { height: 42px; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.15)); }
+      header h1 { margin: 0; font-size: 1.5rem; color: white; letter-spacing: -0.3px; font-weight: 700; line-height: 1;}
+      .header-nav button { background: white; color: var(--primary-color); border: none; padding: 8px 20px; border-radius: 20px; cursor: pointer; font-weight: 600; margin-left: 10px; transition: all 0.3s ease; font-size: 0.95rem; }
+      .header-nav button:hover { background: #f8fafc; transform: translateY(-1px); box-shadow: 0 4px 10px rgba(0,0,0,0.2); }
+
+      /* Sidebar Navigation */
+      #sidebar { position: absolute; top: 73px; left: 0; width: 280px; height: calc(100vh - 73px); background: rgba(15, 23, 42, 0.85); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); border-right: 1px solid rgba(255, 255, 255, 0.1); transform: translateX(-100%); transition: transform 0.3s cubic-bezier(0.25, 1, 0.5, 1); pointer-events: auto; z-index: 20; display: flex; flex-direction: column; }
+      #sidebar.open { transform: translateX(0); }
+      .sidebar-header { padding: 20px; border-bottom: 1px solid rgba(255,255,255,0.1); color: #FBBF24; font-size: 1.2rem; font-weight: 600; display: flex; justify-content: space-between; align-items: center; }
+      .sidebar-header span { letter-spacing: 0.5px; }
+      #close-sidebar { background: none; border: none; color: rgba(255,255,255,0.5); font-size: 1.8rem; cursor: pointer; transition: color 0.3s; padding: 0; line-height: 1; }
+      #close-sidebar:hover { color: white; }
+      .location-list { list-style: none; padding: 0; margin: 0; overflow-y: auto; }
+      .location-list li { padding: 15px 20px; color: rgba(255,255,255,0.8); border-bottom: 1px solid rgba(255,255,255,0.05); cursor: pointer; transition: all 0.2s ease; font-weight: 500; display: flex; align-items: center; gap: 10px; }
+      .location-list li:hover { background: rgba(37, 99, 235, 0.3); color: white; padding-left: 25px; border-left: 3px solid #FBBF24; }
+      
+      /* Smart Chat Widget */
+      #chat-widget { position: absolute; bottom: 20px; right: 20px; width: 360px; height: 520px; background: white; border-radius: 16px; box-shadow: 0 12px 40px rgba(0,0,0,0.25); display: none; flex-direction: column; pointer-events: auto; overflow: hidden; transition: all 0.3s cubic-bezier(0.25, 1, 0.5, 1); border: 1px solid rgba(0,0,0,0.08); }
+      #chat-header { background: var(--primary-color); color: white; padding: 18px; display: flex; justify-content: space-between; align-items: center; font-weight: 600; font-size: 1.1rem; letter-spacing: -0.2px; }
+      #chat-header button { background: none; border: none; color: white; font-size: 1.5rem; cursor: pointer; line-height: 1; }
+      #chat-messages { flex: 1; padding: 15px; overflow-y: auto; display: flex; flex-direction: column; gap: 12px; background: #f8fafc; }
+      .msg { max-width: 85%; padding: 12px 16px; border-radius: 18px; font-size: 0.95rem; line-height: 1.4; word-wrap: break-word; box-shadow: 0 1px 2px rgba(0,0,0,0.05); }
+      .bot-msg { background: #ffffff; color: #333; align-self: flex-start; border-bottom-left-radius: 4px; border: 1px solid #e2e8f0; }
+      .user-msg { background: var(--primary-color); color: white; align-self: flex-end; border-bottom-right-radius: 4px; }
+      #chat-input-area { display: flex; padding: 12px; background: white; border-top: 1px solid #eaeaea; }
+      #chat-input { flex: 1; padding: 12px 15px; border: 1px solid #ccc; border-radius: 25px; outline: none; font-size: 0.95rem; transition: border-color 0.2s; }
+      #chat-input:focus { border-color: var(--primary-color); }
+      #chat-send-btn { background: var(--primary-color); color: white; border: none; width: 44px; height: 44px; border-radius: 50%; margin-left: 10px; cursor: pointer; display: flex; justify-content: center; align-items: center; font-size: 1.1rem; transition: background 0.3s, transform 0.2s;}
+      #chat-send-btn:hover { background: var(--primary-hover); transform: scale(1.05); }
+      
+      /* Floating Action Button (FAB) */
+      #chat-toggle { position: absolute; bottom: 30px; right: 30px; width: 65px; height: 65px; border-radius: 50%; background: var(--primary-color); color: white; border: none; box-shadow: 0 6px 16px rgba(37,99,235,0.35); font-size: 28px; cursor: pointer; pointer-events: auto; display: flex; justify-content: center; align-items: center; transition: transform 0.3s, box-shadow 0.3s; z-index: 100; }
+      #chat-toggle:hover { transform: scale(1.08); box-shadow: 0 8px 20px rgba(0,0,0,0.4); }
+      
+      /* Welcome Prompt Overlay */
+      #welcome-prompt { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) scale(0.9); width: 85%; max-width: 550px; background: linear-gradient(135deg, rgba(15, 23, 42, 0.95) 0%, rgba(30, 27, 75, 0) 100%); backdrop-filter: blur(25px); -webkit-backdrop-filter: blur(25px); border: 1px solid rgba(255, 255, 255, 0.15); padding: 40px; border-radius: 24px; text-align: center; box-shadow: 0 24px 50px rgba(0,0,0,0.6); color: white; opacity: 0; visibility: hidden; transition: all 0.5s cubic-bezier(0.25, 1, 0.5, 1); z-index: 150; pointer-events: none; }
+      #welcome-prompt.show { opacity: 1; visibility: visible; transform: translate(-50%, -50%) scale(1); pointer-events: auto; }
+      #welcome-prompt h2 { font-size: 1.8rem; font-weight: 700; margin: 0 0 15px 0; color: #FBBF24; letter-spacing: -0.5px; }
+      #welcome-prompt p { font-size: 1.05rem; line-height: 1.6; color: rgba(255, 255, 255, 0.9); margin-bottom: 25px; }
+      .close-prompt-btn { position: absolute; top: 15px; right: 20px; background: none; border: none; color: rgba(255,255,255,0.5); font-size: 2rem; cursor: pointer; transition: color 0.3s; padding: 0; line-height: 1; }
+      .close-prompt-btn:hover { color: white; }
+      .explore-btn { background: var(--primary-color); color: white; border: none; padding: 12px 32px; font-size: 1.05rem; font-weight: 600; border-radius: 30px; cursor: pointer; transition: all 0.3s ease; box-shadow: 0 8px 20px rgba(37,99,235,0.3); }
+      .explore-btn:hover { background: var(--primary-hover); transform: translateY(-2px); box-shadow: 0 10px 25px rgba(37,99,235,0.4); }
+    </style>
+  </head>
+  <body>
+    <div id="unity-container" class="unity-desktop">
+      <canvas id="unity-canvas" width=960 height=600 tabindex="-1"></canvas>
+      <div id="unity-loading-bar">
+        <div id="unity-logo"></div>
+        <div id="unity-progress-bar-empty">
+          <div id="unity-progress-bar-full"></div>
+        </div>
+      </div>
+      <div id="unity-warning"> </div>
+      <div id="unity-footer">
+        <div id="unity-logo-title-footer"></div>
+        <div id="unity-fullscreen-button"></div>
+        <div id="unity-build-title">Archive</div>
+      </div>
+    </div>
+
+    <!-- Landing Page Overlay -->
+    <div id="landing-page">
+      <video autoplay muted loop playsinline id="landing-video">
+        <source src="https://vnrvjiet.ac.in/assets/images/Website%20Hero%20Video.mp4" type="video/mp4">
+      </video>
+      <div class="landing-content">
+        <img src="https://vnrvjiet.ac.in/assets/images/VNR-new.png" alt="VNRVJIET Logo" onerror="this.style.display='none'">
+        <h1>VNRVJIET Virtual Tour</h1>
+        <p>Experience the vibrant campus life, state-of-the-art facilities, and academic excellence of Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering and Technology.</p>
+        <button id="start-tour-btn" disabled>Loading Tour... 0%</button>
+      </div>
+    </div>
+    <!-- End Landing Page -->
+
+    <!-- Custom Professional UI Overlay -->
+    <div id="ui-layer">
+      <header>
+        <div class="brand">
+          <img src="https://vnrvjiet.ac.in/assets/images/VNR-new.png" alt="VNRVJIET Logo">
+          <!-- <h1>VNRVJIET</h1> -->
+        </div>
+        <div class="header-nav">
+          <button id="toggle-sidebar">📍 Explore Campus</button>
+        </div>
+      </header>
+      
+      <!-- Sliding Map Sidebar -->
+      <div id="sidebar">
+        <div class="sidebar-header">
+          <span>Campus Locations</span>
+          <button id="close-sidebar">&times;</button>
+        </div>
+        <ul class="location-list">
+          <li onclick="goToLocation('MainEntrance')">🚪 Main Entrance</li>
+          <li onclick="goToLocation('CSEBlock')">💻 CSE Department</li>
+          <li onclick="goToLocation('ECEBlock')">🔌 ECE Department</li>
+          <li onclick="goToLocation('Library')">📚 Central Library</li>
+          <li onclick="goToLocation('SportsComplex')">⚽ Sports Complex</li>
+          <li onclick="goToLocation('Cafeteria')">☕ Cafeteria</li>
+        </ul>
+      </div>
+
+      <div id="chat-widget">
+        <div id="chat-header">
+          <span>VNRVJIET Assistant</span>
+          <button id="close-chat">&times;</button>
+        </div>
+        <div id="chat-messages">
+          <div class="msg bot-msg">Hello! I am your smart campus assistant. Ask me anything about VNRVJIET's faculty, placement records, or campus facilities!</div>
+        </div>
+        <div id="chat-input-area">
+          <input type="text" id="chat-input" placeholder="E.g., Who is the HOD of CSE?" autocomplete="off" />
+          <button id="chat-send-btn">➤</button>
+        </div>
+      </div>
+      <button id="chat-toggle">💬</button>
+      
+      <!-- Welcome Prompt Box -->
+      <div id="welcome-prompt">
+        <button class="close-prompt-btn" id="close-prompt" aria-label="Close">&times;</button>
+        <h2>Welcome to VNRVJIET!</h2>
+        <p>You are currently at the main entrance. Use the on-screen arrows to navigate and explore our beautiful campus.</p>
+        <p>Have questions about the college? Click the 💬 chat icon at the bottom right for instant assistance with any queries.</p>
+        <button class="explore-btn" id="explore-btn">Start Exploring</button>
+      </div>
+    </div>
+    <!-- End Custom UI -->
+
+    <script>
+      var canvas = document.querySelector("#unity-canvas");
+
+      // Shows a temporary message banner/ribbon for a few seconds, or
+      // a permanent error message on top of the canvas if type=='error'.
+      // If type=='warning', a yellow highlight color is used.
+      // Modify or remove this function to customize the visually presented
+      // way that non-critical warnings and error messages are presented to the
+      // user.
+      function unityShowBanner(msg, type) {
+        var warningBanner = document.querySelector("#unity-warning");
+        function updateBannerVisibility() {
+          warningBanner.style.display = warningBanner.children.length ? 'block' : 'none';
+        }
+        var div = document.createElement('div');
+        div.innerHTML = msg;
+        warningBanner.appendChild(div);
+        if (type == 'error') div.style = 'background: red; padding: 10px;';
+        else {
+          if (type == 'warning') div.style = 'background: yellow; padding: 10px;';
+          setTimeout(function() {
+            warningBanner.removeChild(div);
+            updateBannerVisibility();
+          }, 5000);
+        }
+        updateBannerVisibility();
+      }
+
+      var buildUrl = "Build";
+      var loaderUrl = buildUrl + "/campus tour - copy.loader.js";
+      var config = {
+        arguments: [],
+        dataUrl: buildUrl + "/campus tour - copy.data",
+        frameworkUrl: buildUrl + "/campus tour - copy.framework.js",
+        codeUrl: buildUrl + "/campus tour - copy.wasm",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "DefaultCompany",
+        productName: "Archive",
+        productVersion: "1.0",
+        showBanner: unityShowBanner,
+      };
+
+      // By default, Unity keeps WebGL canvas render target size matched with
+      // the DOM size of the canvas element (scaled by window.devicePixelRatio)
+      // Set this to false if you want to decouple this synchronization from
+      // happening inside the engine, and you would instead like to size up
+      // the canvas DOM size and WebGL render target sizes yourself.
+      // config.matchWebGLToCanvasSize = false;
+
+      // If you would like all file writes inside Unity Application.persistentDataPath
+      // directory to automatically persist so that the contents are remembered when
+      // the user revisits the site the next time, uncomment the following line:
+      // config.autoSyncPersistentDataPath = true;
+      // This autosyncing is currently not the default behavior to avoid regressing
+      // existing user projects that might rely on the earlier manual
+      // JS_FileSystem_Sync() behavior, but in future Unity version, this will be
+      // expected to change.
+
+      if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+        // Mobile device style: fill the whole browser client area with the game canvas:
+
+        var meta = document.createElement('meta');
+        meta.name = 'viewport';
+        meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
+        document.getElementsByTagName('head')[0].appendChild(meta);
+        document.querySelector("#unity-container").className = "unity-mobile";
+        canvas.className = "unity-mobile";
+
+        // To lower canvas resolution on mobile devices to gain some
+        // performance, uncomment the following line:
+        // config.devicePixelRatio = 1;
+
+
+      } else {
+        // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
+        canvas.style.width = "100%";
+        canvas.style.height = "100%";
+      }
+
+      const startBtn = document.getElementById('start-tour-btn');
+      let myUnityInstance = null; // We will store the Unity Instance here
+      const landingPage = document.getElementById('landing-page');
+      const welcomePrompt = document.getElementById('welcome-prompt');
+      const closePrompt = document.getElementById('close-prompt');
+      const exploreBtn = document.getElementById('explore-btn');
+      
+      startBtn.addEventListener('click', () => {
+        landingPage.style.opacity = '0';
+        landingPage.style.visibility = 'hidden';
+        
+        // Smoothly bring in the entrance prompt after the landing page fades
+        setTimeout(() => {
+          welcomePrompt.classList.add('show');
+        }, 600);
+      });
+      
+      const hideWelcomePrompt = () => welcomePrompt.classList.remove('show');
+      closePrompt.addEventListener('click', hideWelcomePrompt);
+      exploreBtn.addEventListener('click', hideWelcomePrompt);
+      
+      // Sidebar logic
+      const sidebar = document.getElementById('sidebar');
+      const toggleSidebarBtn = document.getElementById('toggle-sidebar');
+      const closeSidebarBtn = document.getElementById('close-sidebar');
+      
+      const toggleSidebar = () => sidebar.classList.toggle('open');
+      toggleSidebarBtn.addEventListener('click', toggleSidebar);
+      closeSidebarBtn.addEventListener('click', () => sidebar.classList.remove('open'));
+
+      // Send message to Unity to jump to location
+      window.goToLocation = function(locationName) {
+        if (myUnityInstance !== null) {
+          myUnityInstance.SendMessage('TourManager', 'JumpToLocation', locationName);
+        } else {
+          console.warn("Unity environment not fully loaded yet.");
+        }
+        if (window.innerWidth < 768) sidebar.classList.remove('open'); // Auto-hide on mobile
+      };
+
+      var script = document.createElement("script");
+      script.src = loaderUrl;
+      script.onload = () => {
+        createUnityInstance(canvas, config, (progress) => {
+          if (progress < 1) {
+            startBtn.innerText = `Loading Tour... ${Math.round(progress * 100)}%`;
+          } else {
+            startBtn.disabled = false;
+            startBtn.innerText = "Start Virtual Tour";
+          }
+        }).then((unityInstance) => {
+          myUnityInstance = unityInstance; // Save instance globally so HTML buttons can use it!
+
+              }).catch((message) => {
+                alert(message);
+              });
+            };
+
+      document.body.appendChild(script);
+
+    </script>
+  </body>
+</html>
